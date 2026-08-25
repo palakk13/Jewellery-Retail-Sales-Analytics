@@ -1,0 +1,61 @@
+ProductID,ProductName,Category,Material,Purity,Weight_g,CostPrice,SellingPrice,Margin,MarginPct,StockQty,StockQty_Flag,Supplier,LaunchDate
+P1001,Gold Ring #1,Rings,Gold,24K,13.46,55220.0,79770.0,24550.0,30.78,84,OK,Silver Line Exports,2024-01-02 00:00:00
+P1002,Rose Gold Anklet #2,Anklets,Rose Gold,18K,21.04,89440.0,133960.0,44520.0,33.23,95,OK,Diamond Hub Inc,2019-11-23 00:00:00
+P1003,Platinum Bangle #3,Bangles,Platinum,950 Platinum,33.24,164470.0,253160.0,88690.0,35.03,46,OK,Rajesh Jewels Pvt Ltd,2022-04-02 00:00:00
+P1004,Silver Necklace #4,Necklaces,Silver,999 Silver,13.59,70890.0,91870.0,20980.0,22.84,45,OK,Sundari Gems,2020-03-05 00:00:00
+P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,22K,38.16,213510.0,265100.0,51590.0,19.46,2,OK,Diamond Hub Inc,2020-10-08 00:00:00
+P1006,Diamond Earring #6,Earrings,Diamond,Platinum + Diamond,7.57,41720.0,56970.0,15250.0,26.77,93,OK,Kundan Creations,2021-05-27 00:00:00
+P1007,Silver Anklet #7,Anklets,Silver,925 Silver,18.24,93190.0,124620.0,31430.0,25.22,30,OK,Kundan Creations,2023-10-29 00:00:00
+P1008,Platinum Earring #8,Earrings,Platinum,950 Platinum,39.37,169520.0,238270.0,68750.0,28.85,75,OK,GoldCraft Traders,2019-10-11 00:00:00
+P1009,Silver Ring #9,Rings,Silver,925 Silver,39.69,240390.0,284680.0,44290.0,15.56,60,OK,Diamond Hub Inc,2019-05-22 00:00:00
+P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,22K,18.86,100210.0,130210.0,30000.0,23.04,113,OK,Kundan Creations,2021-07-13 00:00:00
+P1011,Gold Bracelet #11,Bracelets,Gold,18K,40.89,238020.0,280470.0,42450.0,15.14,28,OK,Sundari Gems,2022-10-02 00:00:00
+P1012,Gold Necklace #12,Necklaces,Gold,24K,20.25,94030.0,125700.0,31670.0,25.19,91,OK,Rajesh Jewels Pvt Ltd,2022-10-11 00:00:00
+P1013,Diamond Earring #13,Earrings,,Platinum + Diamond,21.62,126720.0,149550.0,22830.0,15.27,101,OK,Diamond Hub Inc,2023-10-20 00:00:00
+P1014,Diamond Nose Pin #14,Nose Pins,Diamond,Platinum + Diamond,10.8,49490.0,58070.0,8580.0,14.78,46,OK,Rajesh Jewels Pvt Ltd,2021-10-03 00:00:00
+P1015,Platinum Bracelet #15,Bracelets,Platinum,950 Platinum,26.69,132490.0,192000.0,59510.0,30.99,5,OK,Rajesh Jewels Pvt Ltd,2022-04-11 00:00:00
+P1016,Diamond Necklace #16,Necklaces,Diamond,18K Gold + Diamond,26.68,96240.0,113830.0,17590.0,15.45,82,OK,Kundan Creations,2022-03-03 00:00:00
+P1017,Platinum Necklace #17,Necklaces,Platinum,950 Platinum,21.44,132840.0,205690.0,72850.0,35.42,7,OK,Kundan Creations,2020-03-12 00:00:00
+P1018,Platinum Ring #18,Rings,Platinum,950 Platinum,42.03,158860.0,238490.0,79630.0,33.39,31,OK,Rajesh Jewels Pvt Ltd,2023-12-28 00:00:00
+P1019,Diamond Bangle #19,Bangles,Diamond,18K Gold + Diamond,26.57,25590.0,32260.0,6670.0,20.68,0,ERROR: Negative Stock Corrected,Sundari Gems,2023-04-29 00:00:00
+P1020,Silver Ring #20,Rings,Silver,999 Silver,26.84,104670.0,125710.0,21040.0,16.74,37,OK,Sundari Gems,2024-01-16 00:00:00
+P1021,Silver Bracelet #21,Bracelets,Silver,925 Silver,43.96,250090.0,375780.0,125690.0,33.45,1,OK,GoldCraft Traders,2023-02-17 00:00:00
+P1022,Diamond Pendant #22,Pendants,Diamond,Platinum + Diamond,37.19,217660.0,269720.0,52060.0,19.3,82,OK,GoldCraft Traders,2021-03-27 00:00:00
+P1023,Gold Necklace #23,Necklaces,Gold,22K,9.27,56540.0,71020.0,14480.0,20.39,11,OK,Kundan Creations,2021-08-06 00:00:00
+P1024,Gold Bracelet #24,Bracelets,Gold,22K,20.26,122820.0,186480.0,63660.0,34.14,77,OK,Sundari Gems,2022-09-20 00:00:00
+P1025,Diamond Earring #25,Earrings,Diamond,Platinum + Diamond,19.16,110190.0,140110.0,29920.0,21.35,24,OK,Malabar Suppliers,2023-05-29 00:00:00
+P1026,Silver Necklace #26,Necklaces,Silver,999 Silver,23.92,124600.0,160000.0,35400.0,22.12,102,OK,Diamond Hub Inc,2020-04-26 00:00:00
+P1027,Diamond Anklet #27,Anklets,Diamond,18K Gold + Diamond,32.75,148580.0,194620.0,46040.0,23.66,16,OK,Silver Line Exports,2022-11-09 00:00:00
+P1028,Gold Nose Pin #28,Nose Pins,Gold,18K,36.36,192800.0,297910.0,105110.0,35.28,74,OK,Sundari Gems,2024-04-29 00:00:00
+P1029,Silver Bangle #29,Bangles,Silver,999 Silver,28.76,121980.0,144060.0,22080.0,15.33,34,OK,GoldCraft Traders,2020-10-07 00:00:00
+P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,22K,4.21,24200.0,31600.0,7400.0,23.42,96,OK,Kundan Creations,2024-04-21 00:00:00
+P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,22K,11.04,51630.0,59970.0,8340.0,13.91,41,OK,Silver Line Exports,2022-10-22 00:00:00
+P1032,Gold Anklet #32,Anklets,Gold,18K,39.21,156470.0,196220.0,39750.0,20.26,39,OK,GoldCraft Traders,2021-07-20 00:00:00
+P1033,Gold Pendant #33,Pendants,Gold,18K,29.78,167050.0,235660.0,68610.0,29.11,94,OK,Rajesh Jewels Pvt Ltd,2024-04-28 00:00:00
+P1034,Platinum Pendant #34,Pendants,Platinum,950 Platinum,27.86,170000.0,244350.0,74350.0,30.43,97,OK,Diamond Hub Inc,2019-02-12 00:00:00
+P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,18K,31.83,137320.0,195500.0,58180.0,29.76,101,OK,Rajesh Jewels Pvt Ltd,2023-06-19 00:00:00
+P1036,Diamond Necklace #36,Necklaces,Diamond,Platinum + Diamond,43.29,225800.0,334520.0,108720.0,32.5,88,OK,GoldCraft Traders,2021-06-10 00:00:00
+P1037,Platinum Bracelet #37,Bracelets,Platinum,950 Platinum,13.63,64290.0,93230.0,28940.0,31.04,70,OK,Kundan Creations,2022-09-30 00:00:00
+P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,18K,23.97,96260.0,119990.0,23730.0,19.78,50,OK,Malabar Suppliers,2022-02-11 00:00:00
+P1039,Platinum Nose Pin #39,Nose Pins,Platinum,950 Platinum,20.01,110340.0,141490.0,31150.0,22.02,87,OK,Malabar Suppliers,2020-08-07 00:00:00
+P1040,Silver Nose Pin #40,Nose Pins,Silver,999 Silver,33.02,202640.0,275560.0,72920.0,26.46,34,OK,Rajesh Jewels Pvt Ltd,2023-09-02 00:00:00
+P1041,Platinum Earring #41,Earrings,Platinum,950 Platinum,5.96,21060.0,26610.0,5550.0,20.86,59,OK,Malabar Suppliers,2020-11-28 00:00:00
+P1042,Gold Earring #42,Earrings,Gold,18K,36.78,222980.0,264020.0,41040.0,15.54,29,OK,Rajesh Jewels Pvt Ltd,2022-02-16 00:00:00
+P1043,Rose Gold Ring #43,Rings,Rose Gold,18K,42.72,173490.0,214160.0,40670.0,18.99,82,OK,Rajesh Jewels Pvt Ltd,2019-11-18 00:00:00
+P1044,Platinum Nose Pin #44,Nose Pins,Platinum,950 Platinum,31.4,188230.0,275780.0,87550.0,31.75,78,OK,Kundan Creations,2022-09-16 00:00:00
+P1045,Platinum Bangle #45,Bangles,Platinum,950 Platinum,6.91,37030.0,52950.0,15920.0,30.07,118,OK,Sundari Gems,2021-10-21 00:00:00
+P1046,Rose Gold Ring #46,Rings,Rose Gold,22K,26.57,147740.0,180250.0,32510.0,18.04,64,OK,Silver Line Exports,2021-06-24 00:00:00
+P1047,Silver Pendant #47,Pendants,Silver,999 Silver,31.67,135490.0,207040.0,71550.0,34.56,102,OK,Diamond Hub Inc,2022-01-31 00:00:00
+P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,22K,3.86,18910.0,26460.0,7550.0,28.53,61,OK,Silver Line Exports,2021-06-24 00:00:00
+P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,18K,15.02,53120.0,69760.0,16640.0,23.85,26,OK,Diamond Hub Inc,2024-02-13 00:00:00
+P1050,Diamond Nose Pin #50,Nose Pins,Diamond,18K Gold + Diamond,21.37,83140.0,101950.0,18810.0,18.45,74,OK,Kundan Creations,2023-03-09 00:00:00
+P1051,Platinum Nose Pin #51,Nose Pins,Platinum,950 Platinum,20.92,100580.0,129040.0,28460.0,22.06,95,OK,Kundan Creations,2021-02-11 00:00:00
+P1052,Diamond Anklet #52,Anklets,Diamond,Platinum + Diamond,44.5,250960.0,354060.0,103100.0,29.12,17,OK,Malabar Suppliers,2024-05-29 00:00:00
+P1053,Diamond Earring #53,Earrings,Diamond,18K Gold + Diamond,21.92,134080.0,172350.0,38270.0,22.2,86,OK,Malabar Suppliers,2022-08-23 00:00:00
+P1054,Silver Bangle #54,Bangles,Silver,925 Silver,33.98,158750.0,188810.0,30060.0,15.92,79,OK,Silver Line Exports,2023-11-23 00:00:00
+P1055,Silver Bracelet #55,Bracelets,Silver,999 Silver,26.12,147310.0,179420.0,32110.0,17.9,8,OK,Kundan Creations,2023-11-19 00:00:00
+P1056,Diamond Bangle #56,Bangles,Diamond,18K Gold + Diamond,4.71,28510.0,44050.0,15540.0,35.28,36,OK,Silver Line Exports,2024-05-24 00:00:00
+P1057,Rose Gold Bangle #57,Bangles,Rose Gold,22K,2.45,14070.0,18410.0,4340.0,23.57,0,ERROR: Negative Stock Corrected,Kundan Creations,2023-11-07 00:00:00
+P1058,Silver Bangle #58,Bangles,Silver,925 Silver,28.83,171230.0,241180.0,69950.0,29.0,37,OK,Diamond Hub Inc,2021-06-21 00:00:00
+P1059,Rose Gold Pendant #59,Pendants,Rose Gold,22K,37.63,157810.0,233540.0,75730.0,32.43,59,OK,Diamond Hub Inc,2020-08-27 00:00:00
+P1060,Diamond Pendant #60,Pendants,Diamond,18K Gold + Diamond,35.89,126960.0,173250.0,46290.0,26.72,56,OK,Sundari Gems,2022-10-09 00:00:00

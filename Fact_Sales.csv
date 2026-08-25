@@ -1,0 +1,714 @@
+TransactionID,OrderDate,OrderMonth,OrderYear,CustomerID,CustomerName,CustomerCity,MembershipTier,ProductID,ProductName,Category,Material,StoreID,StoreName,StoreCity,Quantity,UnitPrice,DiscountPct,Revenue,PaymentMode,SalesChannel
+TXN5488,2023-05-02 00:00:00,2023-05,2023,C2102,Jagdish Brar,Lucknow,Gold,P1032,Gold Anklet #32,Anklets,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,164590.0,0.0,164590.0,Cash,In-Store
+TXN5125,2024-11-27 00:00:00,2024-11,2024,C2053,Victor Kakar,Chennai,Silver,P1027,Diamond Anklet #27,Anklets,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,95070.0,15.0,80809.5,UPI,In-Store
+TXN5198,2023-11-28 00:00:00,2023-11,2023,C2042,Manthan Varma,Mumbai,Gold,P1046,Rose Gold Ring #46,Rings,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,32080.0,10.0,28872.0,Credit Card,Online
+TXN5496,2024-10-27 00:00:00,2024-10,2024,C2103,Warjas Luthra,Jaipur,Gold,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,170430.0,5.0,323817.0,Net Banking,Online
+TXN5395,2023-03-27 00:00:00,2023-03,2023,C2130,Leena Pant,Chennai,Silver,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,3,136950.0,10.0,369765.0,Net Banking,In-Store
+TXN5719,2023-11-27 00:00:00,2023-11,2023,C2027,Yashica Kala,Delhi,Silver,P1041,Platinum Earring #41,Earrings,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,43050.0,10.0,38745.0,EMI,Online
+TXN5273,2024-06-11 00:00:00,2024-06,2024,C2094,Avni Dey,Kolkata,,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,98210.0,0.0,98210.0,UPI,Online
+TXN5602,2024-03-17 00:00:00,2024-03,2024,C2086,Widisha Badami,Lucknow,,P1004,Silver Necklace #4,Necklaces,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,94970.0,0.0,189940.0,EMI,Online
+TXN5073,2024-12-04 00:00:00,2024-12,2024,C2068,Kashish Shanker,Kolkata,Gold,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,204040.0,15.0,173434.0,UPI,In-Store
+TXN5842,2023-01-05 00:00:00,2023-01,2023,C2085,Chakradhar Bhatnagar,Kolkata,Gold,P1012,Gold Necklace #12,Necklaces,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,95460.0,0.0,190920.0,Debit Card,Online
+TXN5639,2023-07-25 00:00:00,2023-07,2023,C2016,Ishaan Bhattacharyya,Hyderabad,,P1009,Silver Ring #9,Rings,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,231350.0,0.0,694050.0,Debit Card,Online
+TXN5190,2024-06-29 00:00:00,2024-06,2024,C2031,Yachana Dora,Kolkata,Platinum,P1012,Gold Necklace #12,Necklaces,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,182860.0,0.0,182860.0,Cash,In-Store
+TXN5393,2025-02-09 00:00:00,2025-02,2025,C2099,Lakshit Dani,Chennai,,P1006,Diamond Earring #6,Earrings,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,18920.0,0.0,37840.0,Credit Card,Online
+TXN5028,2025-02-24 00:00:00,2025-02,2025,C2060,Nilima Swamy,Mumbai,,P1011,Gold Bracelet #11,Bracelets,Gold,S102,Aurelia Jewels - Chennai,Chennai,2,165590.0,0.0,331180.0,Debit Card,In-Store
+TXN5604,2024-12-08 00:00:00,2024-12,2024,C2062,Dev Warrior,Pune,Silver,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,59710.0,0.0,119420.0,Cash,Online
+TXN5268,2023-01-15 00:00:00,2023-01,2023,C2111,Chandran Peri,Pune,Gold,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,84510.0,5.0,160569.0,Net Banking,In-Store
+TXN5675,2023-10-12 00:00:00,2023-10,2023,C2118,Max Guha,Kolkata,Silver,P1041,Platinum Earring #41,Earrings,Platinum,S102,Aurelia Jewels - Chennai,Chennai,3,223500.0,0.0,670500.0,EMI,Online
+TXN5510,2023-03-11 00:00:00,2023-03,2023,C2111,Chandran Peri,Pune,Gold,P1058,Silver Bangle #58,Bangles,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,2,30740.0,0.0,61480.0,Debit Card,In-Store
+TXN5866,2025-07-27 00:00:00,2025-07,2025,C2029,Mekhala Basak,Jaipur,Platinum,P1060,Diamond Pendant #60,Pendants,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,75920.0,0.0,227760.0,UPI,In-Store
+TXN5112,2024-08-02 00:00:00,2024-08,2024,C2038,Jairaj Iyer,Hyderabad,Gold,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,13940.0,10.0,37638.0,Credit Card,In-Store
+TXN5632,2024-01-29 00:00:00,2024-01,2024,C2017,Vincent Mani,Pune,Gold,P1004,Silver Necklace #4,Necklaces,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,1,13200.0,0.0,13200.0,UPI,Online
+TXN5620,2023-05-24 00:00:00,2023-05,2023,C2078,Oscar Hans,Jaipur,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,35310.0,15.0,90040.5,Credit Card,Online
+TXN5029,2023-06-30 00:00:00,2023-06,2023,UNKNOWN,,,,P1021,Silver Bracelet #21,Bracelets,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,177050.0,5.0,168197.5,Net Banking,In-Store
+TXN5058,2025-07-17 00:00:00,2025-07,2025,C2104,Aachal Soni,Hyderabad,Gold,P1025,Diamond Earring #25,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,2,88420.0,0.0,176840.0,EMI,In-Store
+TXN5935,2024-01-18 00:00:00,2024-01,2024,C2117,Umang Doshi,Lucknow,Silver,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,121920.0,0.0,121920.0,EMI,Online
+TXN5035,2023-09-29 00:00:00,2023-09,2023,C2064,Yug Malhotra,Kolkata,Silver,P1045,Platinum Bangle #45,Bangles,Platinum,S102,Aurelia Jewels - Chennai,Chennai,3,67140.0,0.0,201420.0,Credit Card,In-Store
+TXN5732,2025-06-10 00:00:00,2025-06,2025,C2021,Guneet Chaudhry,Pune,,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,3,237260.0,15.0,605013.0,Debit Card,In-Store
+TXN5796,2024-12-28 00:00:00,2024-12,2024,UNKNOWN,,,,P1034,Platinum Pendant #34,Pendants,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,84670.0,5.0,80436.5,Net Banking,In-Store
+TXN5106,2023-09-14 00:00:00,2023-09,2023,C2051,Madhav Babu,Pune,Platinum,P1047,Silver Pendant #47,Pendants,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,91860.0,10.0,248022.0,Credit Card,Online
+TXN5103,2023-08-14 00:00:00,2023-08,2023,C2101,Yagnesh Nori,Chennai,,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,77320.0,10.0,69588.0,Credit Card,Online
+TXN5240,2024-02-04 00:00:00,2024-02,2024,C2068,Kashish Shanker,Kolkata,Gold,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,75040.0,0.0,75040.0,EMI,Online
+TXN5227,2024-08-06 00:00:00,2024-08,2024,C2078,Oscar Hans,Jaipur,Silver,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,247610.0,0.0,742830.0,Debit Card,Online
+TXN5539,2024-04-02 00:00:00,2024-04,2024,C2124,Garima Pandya,Hyderabad,Gold,P1053,Diamond Earring #53,Earrings,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,146150.0,15.0,124227.5,Debit Card,In-Store
+TXN5228,2023-02-24 00:00:00,2023-02,2023,C2145,Robert Vyas,Pune,,P1053,Diamond Earring #53,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,215870.0,10.0,194283.0,Cash,In-Store
+TXN5175,2023-11-04 00:00:00,2023-11,2023,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1026,Silver Necklace #26,Necklaces,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,182000.0,5.0,172900.0,Cash,Online
+TXN5860,2024-04-24 00:00:00,2024-04,2024,C2034,Liam Singh,Bengaluru,Gold,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,154150.0,0.0,462450.0,EMI,Online
+TXN5367,2023-08-29 00:00:00,2023-08,2023,C2144,Kala Gour,Kolkata,Silver,P1004,Silver Necklace #4,Necklaces,Silver,S101,Aurelia Jewels - Surat,Surat,3,220700.0,5.0,628995.0,Debit Card,Online
+TXN5752,2025-03-12 00:00:00,2025-03,2025,C2067,Nandini Biswas,Kolkata,Silver,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,111880.0,0.0,111880.0,UPI,Online
+TXN5089,2024-11-19 00:00:00,2024-11,2024,C2046,Advika Rajagopal,Ahmedabad,Silver,P1033,Gold Pendant #33,Pendants,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,191150.0,0.0,191150.0,EMI,In-Store
+TXN5360,2024-10-26 00:00:00,2024-10,2024,C2062,Dev Warrior,Pune,Silver,P1028,Gold Nose Pin #28,Nose Pins,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,78030.0,0.0,78030.0,Cash,Online
+TXN5740,2024-09-05 00:00:00,2024-09,2024,C2082,Chakradev Misra,Kolkata,Gold,P1007,Silver Anklet #7,Anklets,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,8450.0,0.0,16900.0,Net Banking,In-Store
+TXN5915,2025-05-30 00:00:00,2025-05,2025,C2038,Jairaj Iyer,Hyderabad,Gold,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,213370.0,10.0,192033.0,EMI,Online
+TXN5289,2025-06-07 00:00:00,2025-06,2025,C2086,Widisha Badami,Lucknow,,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,5630.0,15.0,4785.5,Cash,In-Store
+TXN5877,2025-01-23 00:00:00,2025-01,2025,C2137,Ekanta Kala,Bengaluru,Gold,P1001,Gold Ring #1,Rings,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,189560.0,0.0,379120.0,Cash,Online
+TXN5165,2025-03-05 00:00:00,2025-03,2025,C2131,Garima Sama,Hyderabad,Silver,P1025,Diamond Earring #25,Earrings,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,156450.0,10.0,140805.0,UPI,Online
+TXN5882,2024-04-28 00:00:00,2024-04,2024,C2070,Megha Taneja,Surat,,P1022,Diamond Pendant #22,Pendants,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,126340.0,15.0,107389.0,Debit Card,In-Store
+TXN5300,2025-07-19 00:00:00,2025-07,2025,C2012,Lopa Nayar,Pune,Silver,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,189620.0,10.0,170658.0,Net Banking,Online
+TXN5105,2024-09-23 00:00:00,2024-09,2024,C2050,George Wason,Jaipur,,P1008,Platinum Earring #8,Earrings,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,213440.0,0.0,213440.0,EMI,In-Store
+TXN5256,2025-04-10 00:00:00,2025-04,2025,C2103,Warjas Luthra,Jaipur,Gold,P1021,Silver Bracelet #21,Bracelets,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,83110.0,10.0,74799.0,Credit Card,In-Store
+TXN5102,2023-03-16 00:00:00,2023-03,2023,C2130,Leena Pant,Chennai,Silver,P1007,Silver Anklet #7,Anklets,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,2,153220.0,0.0,306440.0,Cash,Online
+TXN5047,2024-01-28 00:00:00,2024-01,2024,C2126,Lohit Mander,Ahmedabad,Gold,P1037,Platinum Bracelet #37,Bracelets,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,46360.0,0.0,46360.0,Credit Card,In-Store
+TXN5739,2023-02-16 00:00:00,2023-02,2023,C2103,Warjas Luthra,Jaipur,Gold,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,71080.0,0.0,142160.0,Cash,Online
+TXN5287,2025-01-03 00:00:00,2025-01,2025,C2095,Theodore Sura,Surat,Silver,P1025,Diamond Earring #25,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,74020.0,0.0,74020.0,Net Banking,Online
+TXN5097,2025-07-15 00:00:00,2025-07,2025,C2063,Faras Deo,Bengaluru,Silver,P1021,Silver Bracelet #21,Bracelets,Silver,S101,Aurelia Jewels - Surat,Surat,3,97820.0,0.0,293460.0,Cash,In-Store
+TXN5036,2023-06-20 00:00:00,2023-06,2023,C2128,Vidhi Contractor,Mumbai,Gold,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,138320.0,0.0,414960.0,Net Banking,Online
+TXN5579,2024-05-17 00:00:00,2024-05,2024,C2106,Krishna Zacharia,Bengaluru,Platinum,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,55730.0,10.0,50157.0,EMI,Online
+TXN5828,2024-09-16 00:00:00,2024-09,2024,C2092,Gabriel Manda,Pune,,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,155010.0,5.0,147259.5,EMI,Online
+TXN5849,2023-09-14 00:00:00,2023-09,2023,C2090,Qarin Verma,Lucknow,,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,100260.0,15.0,85221.0,Net Banking,Online
+TXN5701,2023-05-10 00:00:00,2023-05,2023,UNKNOWN,,,,P1042,Gold Earring #42,Earrings,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,145610.0,15.0,371305.5,EMI,Online
+TXN5094,2023-12-05 00:00:00,2023-12,2023,C2040,Maanas Munshi,Mumbai,Gold,P1003,Platinum Bangle #3,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,3,150830.0,15.0,384616.5,Cash,In-Store
+TXN5161,2024-02-10 00:00:00,2024-02,2024,C2003,Neel Zacharia,Surat,Platinum,P1003,Platinum Bangle #3,Bangles,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,95360.0,5.0,90592.0,Cash,In-Store
+TXN5290,2023-07-24 00:00:00,2023-07,2023,C2098,Krish Kumar,Coimbatore,Platinum,P1019,Diamond Bangle #19,Bangles,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,206410.0,15.0,175448.5,Cash,In-Store
+TXN5370,2025-02-19 00:00:00,2025-02,2025,C2129,Kala Bera,Mumbai,Gold,P1047,Silver Pendant #47,Pendants,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,163180.0,5.0,155021.0,Credit Card,In-Store
+TXN5195,2024-06-17 00:00:00,2024-06,2024,C2117,Umang Doshi,Lucknow,Silver,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S101,Aurelia Jewels - Surat,Surat,2,131600.0,0.0,263200.0,Net Banking,Online
+TXN5772,2025-03-01 00:00:00,2025-03,2025,C2076,Oliver Kakar,Lucknow,Gold,P1054,Silver Bangle #54,Bangles,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,83170.0,10.0,74853.0,Net Banking,Online
+TXN5456,2023-03-13 00:00:00,2023-03,2023,C2014,Rajata Loyal,Kolkata,Gold,P1041,Platinum Earring #41,Earrings,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,34890.0,10.0,62802.0,Debit Card,In-Store
+TXN5669,2024-08-26 00:00:00,2024-08,2024,C2022,Rushil Rajagopalan,Hyderabad,Platinum,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,3,169780.0,10.0,458406.0,Cash,In-Store
+TXN5711,2024-11-11 00:00:00,2024-11,2024,C2107,Fariq Sami,Mumbai,Silver,P1054,Silver Bangle #54,Bangles,Silver,S101,Aurelia Jewels - Surat,Surat,1,51460.0,5.0,48887.0,EMI,Online
+TXN5601,2023-10-01 00:00:00,2023-10,2023,C2123,Oeshi Sachdev,Hyderabad,Silver,P1043,Rose Gold Ring #43,Rings,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,69330.0,0.0,207990.0,UPI,Online
+TXN5064,2024-03-15 00:00:00,2024-03,2024,C2099,Lakshit Dani,Chennai,,P1001,Gold Ring #1,Rings,Gold,S101,Aurelia Jewels - Surat,Surat,2,183740.0,10.0,330732.0,Net Banking,Online
+TXN5770,2023-09-27 00:00:00,2023-09,2023,C2078,Oscar Hans,Jaipur,Silver,P1024,Gold Bracelet #24,Bracelets,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,86100.0,10.0,154980.0,Cash,In-Store
+TXN5771,2025-02-19 00:00:00,2025-02,2025,C2002,Alka Dewan,Delhi,Gold,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,242300.0,5.0,230185.0,Cash,Online
+TXN5832,2023-06-22 00:00:00,2023-06,2023,C2137,Ekanta Kala,Bengaluru,Gold,P1001,Gold Ring #1,Rings,Gold,S101,Aurelia Jewels - Surat,Surat,3,98650.0,10.0,266355.0,Credit Card,Online
+TXN5388,2024-10-21 00:00:00,2024-10,2024,C2022,Rushil Rajagopalan,Hyderabad,Platinum,P1013,Diamond Earring #13,Earrings,,S101,Aurelia Jewels - Surat,Surat,2,188640.0,0.0,377280.0,Credit Card,Online
+TXN5218,2023-05-25 00:00:00,2023-05,2023,C2073,Watika Dhaliwal,Mumbai,Silver,P1037,Platinum Bracelet #37,Bracelets,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,21530.0,10.0,19377.0,Net Banking,Online
+TXN5609,2025-04-03 00:00:00,2025-04,2025,C2086,Widisha Badami,Lucknow,,P1029,Silver Bangle #29,Bangles,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,247490.0,0.0,742470.0,UPI,In-Store
+TXN5282,2023-07-30 00:00:00,2023-07,2023,C2009,Chaitanya Sarin,Ahmedabad,Silver,P1043,Rose Gold Ring #43,Rings,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,3,40390.0,5.0,115111.5,Net Banking,Online
+TXN5246,2024-01-27 00:00:00,2024-01,2024,C2086,Widisha Badami,Lucknow,,P1004,Silver Necklace #4,Necklaces,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,2,47770.0,10.0,85986.0,Net Banking,Online
+TXN5886,2023-01-19 00:00:00,2023-01,2023,C2095,Theodore Sura,Surat,Silver,P1027,Diamond Anklet #27,Anklets,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,236370.0,10.0,425466.0,EMI,In-Store
+TXN5060,2025-01-02 00:00:00,2025-01,2025,C2109,Brijesh Soman,Delhi,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,3,68100.0,0.0,204300.0,Cash,Online
+TXN5933,2024-07-20 00:00:00,2024-07,2024,C2140,Victor Chadha,Delhi,Gold,P1055,Silver Bracelet #55,Bracelets,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,168100.0,5.0,159695.0,Credit Card,Online
+TXN5650,2024-07-11 00:00:00,2024-07,2024,C2009,Chaitanya Sarin,Ahmedabad,Silver,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,227870.0,10.0,205083.0,UPI,Online
+TXN5365,2024-02-12 00:00:00,2024-02,2024,UNKNOWN,,,,P1055,Silver Bracelet #55,Bracelets,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,221260.0,0.0,221260.0,Cash,In-Store
+TXN5599,2025-05-18 00:00:00,2025-05,2025,C2028,Charles Dugal,Surat,Platinum,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,229510.0,0.0,459020.0,Net Banking,In-Store
+TXN5789,2023-01-17 00:00:00,2023-01,2023,C2083,Osha Chaudhuri,Lucknow,Silver,P1003,Platinum Bangle #3,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,47630.0,5.0,90497.0,Debit Card,Online
+TXN5403,2024-01-07 00:00:00,2024-01,2024,C2072,Kalpit Oak,Surat,Gold,P1032,Gold Anklet #32,Anklets,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,52240.0,0.0,52240.0,Credit Card,In-Store
+TXN5738,2024-09-22 00:00:00,2024-09,2024,C2140,Victor Chadha,Delhi,Gold,P1055,Silver Bracelet #55,Bracelets,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,96060.0,0.0,96060.0,UPI,Online
+TXN5333,2023-07-08 00:00:00,2023-07,2023,C2115,Dalaja Gara,Lucknow,Gold,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,102560.0,10.0,92304.0,Net Banking,Online
+TXN5182,2023-02-25 00:00:00,2023-02,2023,C2038,Jairaj Iyer,Hyderabad,Gold,P1056,Diamond Bangle #56,Bangles,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,88440.0,15.0,75174.0,Cash,Online
+TXN5827,2024-12-22 00:00:00,2024-12,2024,C2102,Jagdish Brar,Lucknow,Gold,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,136450.0,10.0,245610.0,Debit Card,Online
+TXN5676,2024-10-04 00:00:00,2024-10,2024,C2063,Faras Deo,Bengaluru,Silver,P1009,Silver Ring #9,Rings,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,169640.0,5.0,322316.0,Cash,In-Store
+TXN5244,2024-11-03 00:00:00,2024-11,2024,UNKNOWN,,,,P1041,Platinum Earring #41,Earrings,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,25250.0,0.0,25250.0,EMI,Online
+TXN5507,2023-10-28 00:00:00,2023-10,2023,C2055,Xavier Verma,Chennai,Silver,P1001,Gold Ring #1,Rings,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,231070.0,0.0,462140.0,Cash,In-Store
+TXN5208,2023-01-12 00:00:00,2023-01,2023,C2052,Nisha Arora,Hyderabad,Silver,P1045,Platinum Bangle #45,Bangles,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,2,198390.0,10.0,357102.0,Credit Card,In-Store
+TXN5011,2023-09-19 00:00:00,2023-09,2023,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S102,Aurelia Jewels - Chennai,Chennai,2,186230.0,0.0,372460.0,Debit Card,In-Store
+TXN5051,2023-07-25 00:00:00,2023-07,2023,C2064,Yug Malhotra,Kolkata,Silver,P1003,Platinum Bangle #3,Bangles,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,229840.0,15.0,195364.0,UPI,In-Store
+TXN5419,2023-04-28 00:00:00,2023-04,2023,C2075,Vrinda Lanka,Hyderabad,Silver,P1029,Silver Bangle #29,Bangles,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,14800.0,10.0,39960.0,UPI,Online
+TXN5083,2025-01-03 00:00:00,2025-01,2025,C2094,Avni Dey,Kolkata,,P1046,Rose Gold Ring #46,Rings,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,27970.0,0.0,27970.0,UPI,In-Store
+TXN5635,2025-01-17 00:00:00,2025-01,2025,C2137,Ekanta Kala,Bengaluru,Gold,P1032,Gold Anklet #32,Anklets,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,144310.0,10.0,259758.0,UPI,Online
+TXN5535,2023-10-31 00:00:00,2023-10,2023,C2132,Mitesh Tandon,Coimbatore,Platinum,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,4300.0,10.0,3870.0,Cash,Online
+TXN5350,2025-03-31 00:00:00,2025-03,2025,C2073,Watika Dhaliwal,Mumbai,Silver,P1021,Silver Bracelet #21,Bracelets,Silver,S101,Aurelia Jewels - Surat,Surat,1,138600.0,0.0,138600.0,Cash,Online
+TXN5179,2024-02-13 00:00:00,2024-02,2024,C2113,Lakshit Lanka,Surat,Silver,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,122310.0,0.0,122310.0,EMI,Online
+TXN5597,2024-12-29 00:00:00,2024-12,2024,C2091,Oliver Yogi,Mumbai,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,174960.0,0.0,349920.0,Credit Card,Online
+TXN5494,2024-06-19 00:00:00,2024-06,2024,C2139,Oni Issac,Mumbai,Silver,P1033,Gold Pendant #33,Pendants,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,167000.0,0.0,167000.0,Debit Card,In-Store
+TXN5574,2025-03-31 00:00:00,2025-03,2025,C2111,Chandran Peri,Pune,Gold,P1009,Silver Ring #9,Rings,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,103170.0,5.0,98011.5,Cash,Online
+TXN5558,2023-09-08 00:00:00,2023-09,2023,C2145,Robert Vyas,Pune,,P1001,Gold Ring #1,Rings,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,75500.0,0.0,75500.0,Credit Card,In-Store
+TXN5132,2024-06-02 00:00:00,2024-06,2024,C2145,Robert Vyas,Pune,,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,3,236970.0,15.0,604273.5,Net Banking,In-Store
+TXN5486,2025-07-07 00:00:00,2025-07,2025,C2054,Rachana Grewal,Lucknow,Silver,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,93110.0,0.0,93110.0,EMI,In-Store
+TXN5111,2023-08-17 00:00:00,2023-08,2023,C2075,Vrinda Lanka,Hyderabad,Silver,P1009,Silver Ring #9,Rings,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,101610.0,10.0,91449.0,Net Banking,Online
+TXN5883,2024-03-19 00:00:00,2024-03,2024,C2041,Bhavika Yadav,Chennai,Silver,P1032,Gold Anklet #32,Anklets,Gold,S101,Aurelia Jewels - Surat,Surat,3,240510.0,10.0,649377.0,EMI,In-Store
+TXN5573,2024-06-15 00:00:00,2024-06,2024,UNKNOWN,,,,P1021,Silver Bracelet #21,Bracelets,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,239950.0,10.0,215955.0,Net Banking,Online
+TXN5008,2023-03-01 00:00:00,2023-03,2023,C2023,Chakrika Nigam,Ahmedabad,,P1060,Diamond Pendant #60,Pendants,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,115530.0,15.0,98200.5,EMI,Online
+TXN5090,2024-06-19 00:00:00,2024-06,2024,C2007,Samar Lalla,Surat,Silver,P1025,Diamond Earring #25,Earrings,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,168880.0,5.0,160436.0,UPI,In-Store
+TXN5653,2024-08-07 00:00:00,2024-08,2024,C2010,Girik Keer,Bengaluru,Gold,P1040,Silver Nose Pin #40,Nose Pins,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,3,70110.0,0.0,210330.0,Credit Card,In-Store
+TXN5644,2024-03-25 00:00:00,2024-03,2024,C2073,Watika Dhaliwal,Mumbai,Silver,P1003,Platinum Bangle #3,Bangles,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,3,152190.0,15.0,388084.5,Debit Card,In-Store
+TXN5824,2025-07-28 00:00:00,2025-07,2025,C2123,Oeshi Sachdev,Hyderabad,Silver,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,202580.0,10.0,182322.0,EMI,In-Store
+TXN5829,2023-01-31 00:00:00,2023-01,2023,C2128,Vidhi Contractor,Mumbai,Gold,P1047,Silver Pendant #47,Pendants,Silver,S102,Aurelia Jewels - Chennai,Chennai,3,25920.0,0.0,77760.0,Cash,In-Store
+TXN5940,2023-07-16 00:00:00,2023-07,2023,C2134,Neel Borah,Delhi,,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,68920.0,10.0,124056.0,Net Banking,In-Store
+TXN5684,2024-12-22 00:00:00,2024-12,2024,C2091,Oliver Yogi,Mumbai,Silver,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,131590.0,10.0,118431.0,Debit Card,Online
+TXN5207,2023-01-02 00:00:00,2023-01,2023,C2007,Samar Lalla,Surat,Silver,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,200690.0,0.0,401380.0,Credit Card,In-Store
+TXN5658,2023-11-30 00:00:00,2023-11,2023,C2096,Siddharth Doctor,Lucknow,,P1054,Silver Bangle #54,Bangles,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,161900.0,5.0,153805.0,Credit Card,In-Store
+TXN5873,2023-12-05 00:00:00,2023-12,2023,C2028,Charles Dugal,Surat,Platinum,P1040,Silver Nose Pin #40,Nose Pins,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,177220.0,0.0,177220.0,Debit Card,Online
+TXN5664,2024-04-04 00:00:00,2024-04,2024,C2059,Ijaya Pandey,Coimbatore,Silver,P1037,Platinum Bracelet #37,Bracelets,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,195010.0,5.0,370519.0,Net Banking,In-Store
+TXN5049,2025-06-08 00:00:00,2025-06,2025,C2035,Madhavi Singhal,Jaipur,,P1020,Silver Ring #20,Rings,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,70280.0,0.0,210840.0,Debit Card,Online
+TXN5239,2023-08-04 00:00:00,2023-08,2023,C2089,Omaja Munshi,Ahmedabad,,P1004,Silver Necklace #4,Necklaces,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,1,16920.0,0.0,16920.0,UPI,Online
+TXN5189,2024-07-09 00:00:00,2024-07,2024,C2053,Victor Kakar,Chennai,Silver,P1042,Gold Earring #42,Earrings,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,216200.0,5.0,410780.0,Cash,Online
+TXN5483,2023-02-23 00:00:00,2023-02,2023,C2126,Lohit Mander,Ahmedabad,Gold,P1047,Silver Pendant #47,Pendants,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,246160.0,5.0,467704.0,Credit Card,In-Store
+TXN5889,2023-03-10 00:00:00,2023-03,2023,C2100,Balendra Parsa,Hyderabad,Silver,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,179130.0,0.0,358260.0,Cash,Online
+TXN5329,2024-11-30 00:00:00,2024-11,2024,C2072,Kalpit Oak,Surat,Gold,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,3,120900.0,15.0,308295.0,Credit Card,Online
+TXN5531,2023-06-16 00:00:00,2023-06,2023,C2101,Yagnesh Nori,Chennai,,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,39310.0,0.0,39310.0,EMI,Online
+TXN5651,2025-04-29 00:00:00,2025-04,2025,C2113,Lakshit Lanka,Surat,Silver,P1056,Diamond Bangle #56,Bangles,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,202620.0,15.0,172227.0,Net Banking,In-Store
+TXN5317,2023-11-21 00:00:00,2023-11,2023,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1025,Diamond Earring #25,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,202850.0,10.0,182565.0,UPI,In-Store
+TXN5751,2025-07-19 00:00:00,2025-07,2025,C2063,Faras Deo,Bengaluru,Silver,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,188160.0,0.0,188160.0,Net Banking,In-Store
+TXN5120,2025-01-11 00:00:00,2025-01,2025,C2088,Sai Kadakia,Surat,,P1060,Diamond Pendant #60,Pendants,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,60530.0,0.0,60530.0,Credit Card,In-Store
+TXN5698,2023-06-03 00:00:00,2023-06,2023,C2018,Zilmil Sathe,Surat,Gold,P1001,Gold Ring #1,Rings,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,53020.0,0.0,106040.0,UPI,Online
+TXN5116,2023-08-24 00:00:00,2023-08,2023,C2133,Triya Khurana,Mumbai,,P1042,Gold Earring #42,Earrings,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,40960.0,0.0,81920.0,EMI,In-Store
+TXN5285,2024-02-16 00:00:00,2024-02,2024,C2057,Ojas Basu,Coimbatore,Gold,P1029,Silver Bangle #29,Bangles,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,84290.0,10.0,75861.0,Net Banking,In-Store
+TXN5843,2024-03-08 00:00:00,2024-03,2024,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1046,Rose Gold Ring #46,Rings,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,235310.0,15.0,400027.0,Cash,Online
+TXN5898,2024-12-15 00:00:00,2024-12,2024,C2124,Garima Pandya,Hyderabad,Gold,P1003,Platinum Bangle #3,Bangles,Platinum,S101,Aurelia Jewels - Surat,Surat,2,190600.0,5.0,362140.0,Net Banking,In-Store
+TXN5687,2023-05-15 00:00:00,2023-05,2023,C2070,Megha Taneja,Surat,,P1056,Diamond Bangle #56,Bangles,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,22180.0,0.0,22180.0,Credit Card,Online
+TXN5891,2023-03-04 00:00:00,2023-03,2023,C2050,George Wason,Jaipur,,P1034,Platinum Pendant #34,Pendants,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,2,198510.0,0.0,397020.0,UPI,Online
+TXN5528,2024-02-23 00:00:00,2024-02,2024,C2076,Oliver Kakar,Lucknow,Gold,P1021,Silver Bracelet #21,Bracelets,Silver,S101,Aurelia Jewels - Surat,Surat,1,206690.0,15.0,175686.5,Debit Card,Online
+TXN5040,2023-04-10 00:00:00,2023-04,2023,C2053,Victor Kakar,Chennai,Silver,P1011,Gold Bracelet #11,Bracelets,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,120500.0,0.0,120500.0,Cash,In-Store
+TXN5501,2024-08-29 00:00:00,2024-08,2024,C2067,Nandini Biswas,Kolkata,Silver,P1001,Gold Ring #1,Rings,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,39100.0,15.0,33235.0,Credit Card,Online
+TXN5815,2024-01-03 00:00:00,2024-01,2024,C2089,Omaja Munshi,Ahmedabad,,P1023,Gold Necklace #23,Necklaces,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,113720.0,0.0,227440.0,EMI,Online
+TXN5260,2023-04-01 00:00:00,2023-04,2023,C2078,Oscar Hans,Jaipur,Silver,P1023,Gold Necklace #23,Necklaces,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,141200.0,0.0,141200.0,Net Banking,Online
+TXN5178,2023-08-16 00:00:00,2023-08,2023,C2075,Vrinda Lanka,Hyderabad,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,36520.0,0.0,36520.0,Net Banking,In-Store
+TXN5786,2024-08-15 00:00:00,2024-08,2024,C2134,Neel Borah,Delhi,,P1008,Platinum Earring #8,Earrings,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,33610.0,10.0,60498.0,EMI,In-Store
+TXN5680,2024-11-09 00:00:00,2024-11,2024,C2030,Rudra Ghose,Mumbai,Silver,P1012,Gold Necklace #12,Necklaces,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,166510.0,0.0,499530.0,EMI,In-Store
+TXN5245,2024-04-23 00:00:00,2024-04,2024,C2020,Tamanna Nagy,Chennai,,P1041,Platinum Earring #41,Earrings,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,193260.0,10.0,347868.0,UPI,Online
+TXN5598,2024-01-30 00:00:00,2024-01,2024,C2126,Lohit Mander,Ahmedabad,Gold,P1007,Silver Anklet #7,Anklets,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,2,204240.0,10.0,367632.0,UPI,In-Store
+TXN5321,2024-11-18 00:00:00,2024-11,2024,C2047,Mason Gala,Pune,,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,145900.0,0.0,145900.0,UPI,In-Store
+TXN5397,2025-05-12 00:00:00,2025-05,2025,C2055,Xavier Verma,Chennai,Silver,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,43710.0,0.0,43710.0,UPI,In-Store
+TXN5107,2024-06-04 00:00:00,2024-06,2024,C2079,Udarsh Krishnan,Pune,Platinum,P1045,Platinum Bangle #45,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,3,202690.0,5.0,577666.5,Credit Card,Online
+TXN5075,2025-06-18 00:00:00,2025-06,2025,C2024,Oni Dubey,Chennai,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,32000.0,0.0,32000.0,UPI,In-Store
+TXN5790,2023-08-03 00:00:00,2023-08,2023,C2076,Oliver Kakar,Lucknow,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,107130.0,5.0,101773.5,EMI,In-Store
+TXN5764,2024-03-28 00:00:00,2024-03,2024,C2123,Oeshi Sachdev,Hyderabad,Silver,P1013,Diamond Earring #13,Earrings,,S102,Aurelia Jewels - Chennai,Chennai,2,151180.0,0.0,302360.0,Net Banking,Online
+TXN5905,2024-09-08 00:00:00,2024-09,2024,C2127,Ganga Nair,Chennai,Gold,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,23110.0,0.0,46220.0,Credit Card,Online
+TXN5697,2023-09-15 00:00:00,2023-09,2023,C2120,Praneel Setty,Jaipur,Silver,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,44400.0,0.0,44400.0,Credit Card,In-Store
+TXN5799,2024-10-06 00:00:00,2024-10,2024,C2087,Tanvi Halder,Ahmedabad,Gold,P1058,Silver Bangle #58,Bangles,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,2,87880.0,0.0,175760.0,EMI,In-Store
+TXN5355,2024-06-19 00:00:00,2024-06,2024,C2076,Oliver Kakar,Lucknow,Gold,P1037,Platinum Bracelet #37,Bracelets,Platinum,S101,Aurelia Jewels - Surat,Surat,1,229660.0,0.0,229660.0,Cash,In-Store
+TXN5266,2023-12-10 00:00:00,2023-12,2023,C2009,Chaitanya Sarin,Ahmedabad,Silver,P1045,Platinum Bangle #45,Bangles,Platinum,S101,Aurelia Jewels - Surat,Surat,2,37580.0,0.0,75160.0,Cash,In-Store
+TXN5373,2024-03-29 00:00:00,2024-03,2024,C2003,Neel Zacharia,Surat,Platinum,P1046,Rose Gold Ring #46,Rings,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,87220.0,5.0,82859.0,Cash,In-Store
+TXN5346,2024-04-13 00:00:00,2024-04,2024,C2029,Mekhala Basak,Jaipur,Platinum,P1055,Silver Bracelet #55,Bracelets,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,90000.0,15.0,76500.0,Debit Card,In-Store
+TXN5236,2024-08-09 00:00:00,2024-08,2024,C2075,Vrinda Lanka,Hyderabad,Silver,P1052,Diamond Anklet #52,Anklets,Diamond,S101,Aurelia Jewels - Surat,Surat,2,123250.0,0.0,246500.0,UPI,Online
+TXN5556,2024-04-29 00:00:00,2024-04,2024,C2115,Dalaja Gara,Lucknow,Gold,P1042,Gold Earring #42,Earrings,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,243030.0,10.0,218727.0,UPI,In-Store
+TXN5806,2024-10-23 00:00:00,2024-10,2024,C2101,Yagnesh Nori,Chennai,,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,209240.0,15.0,355708.0,Debit Card,Online
+TXN5753,2024-06-07 00:00:00,2024-06,2024,C2114,Yamini Chana,Surat,Platinum,P1028,Gold Nose Pin #28,Nose Pins,Gold,S102,Aurelia Jewels - Chennai,Chennai,1,39910.0,0.0,39910.0,EMI,In-Store
+TXN5463,2025-04-12 00:00:00,2025-04,2025,C2008,Gaurangi Sabharwal,Surat,Silver,P1045,Platinum Bangle #45,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,152940.0,5.0,290586.0,UPI,Online
+TXN5723,2023-02-25 00:00:00,2023-02,2023,C2080,Hemal Kapadia,Coimbatore,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,3,116840.0,0.0,350520.0,EMI,Online
+TXN5761,2024-02-13 00:00:00,2024-02,2024,C2026,Lakshmi Wali,Coimbatore,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,70780.0,0.0,70780.0,Credit Card,Online
+TXN5611,2023-02-01 00:00:00,2023-02,2023,C2149,Ronith Chokshi,Chennai,,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,54750.0,0.0,164250.0,EMI,In-Store
+TXN5709,2023-09-02 00:00:00,2023-09,2023,C2008,Gaurangi Sabharwal,Surat,Silver,P1040,Silver Nose Pin #40,Nose Pins,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,218240.0,0.0,218240.0,Credit Card,In-Store
+TXN5100,2025-02-03 00:00:00,2025-02,2025,C2040,Maanas Munshi,Mumbai,Gold,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,13320.0,5.0,37962.0,UPI,Online
+TXN5900,2023-08-02 00:00:00,2023-08,2023,C2011,William Maharaj,Lucknow,,P1032,Gold Anklet #32,Anklets,Gold,S101,Aurelia Jewels - Surat,Surat,3,176650.0,10.0,476955.0,Net Banking,In-Store
+TXN5869,2023-05-14 00:00:00,2023-05,2023,C2003,Neel Zacharia,Surat,Platinum,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S101,Aurelia Jewels - Surat,Surat,2,97650.0,0.0,195300.0,Cash,In-Store
+TXN5219,2025-07-13 00:00:00,2025-07,2025,C2013,Udyati Kunda,Pune,Gold,P1007,Silver Anklet #7,Anklets,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,25190.0,0.0,25190.0,Net Banking,In-Store
+TXN5030,2023-06-29 00:00:00,2023-06,2023,C2010,Girik Keer,Bengaluru,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,2,152010.0,0.0,304020.0,Credit Card,Online
+TXN5551,2024-05-27 00:00:00,2024-05,2024,C2081,Tanvi Dhar,Pune,,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,243570.0,0.0,730710.0,UPI,Online
+TXN5074,2025-01-26 00:00:00,2025-01,2025,C2025,Owen Choudhary,Delhi,Silver,P1055,Silver Bracelet #55,Bracelets,Silver,S101,Aurelia Jewels - Surat,Surat,1,213590.0,5.0,202910.5,UPI,In-Store
+TXN5142,2023-07-20 00:00:00,2023-07,2023,C2039,Farhan Krishna,Delhi,Silver,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,107690.0,10.0,96921.0,Cash,In-Store
+TXN5566,2024-10-11 00:00:00,2024-10,2024,C2150,Qasim Sarraf,Pune,Platinum,P1007,Silver Anklet #7,Anklets,Silver,S101,Aurelia Jewels - Surat,Surat,2,187440.0,5.0,356136.0,Net Banking,Online
+TXN5683,2023-08-15 00:00:00,2023-08,2023,C2043,Max Sachar,Ahmedabad,Silver,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,237180.0,10.0,213462.0,Debit Card,Online
+TXN5515,2023-09-11 00:00:00,2023-09,2023,C2111,Chandran Peri,Pune,Gold,P1013,Diamond Earring #13,Earrings,,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,176480.0,5.0,167656.0,Debit Card,Online
+TXN5014,2024-07-20 00:00:00,2024-07,2024,C2003,Neel Zacharia,Surat,Platinum,P1024,Gold Bracelet #24,Bracelets,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,142700.0,10.0,256860.0,Cash,In-Store
+TXN5850,2023-12-10 00:00:00,2023-12,2023,C2114,Yamini Chana,Surat,Platinum,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,211480.0,15.0,179758.0,Net Banking,Online
+TXN5497,2024-12-14 00:00:00,2024-12,2024,C2050,George Wason,Jaipur,,P1046,Rose Gold Ring #46,Rings,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,107240.0,0.0,107240.0,Cash,Online
+TXN5411,2023-04-15 00:00:00,2023-04,2023,C2015,Pavani Narayanan,Hyderabad,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S101,Aurelia Jewels - Surat,Surat,2,213080.0,0.0,426160.0,Debit Card,In-Store
+TXN5309,2024-05-24 00:00:00,2024-05,2024,C2035,Madhavi Singhal,Jaipur,,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,208260.0,0.0,208260.0,Debit Card,In-Store
+TXN5797,2025-03-24 00:00:00,2025-03,2025,C2047,Mason Gala,Pune,,P1001,Gold Ring #1,Rings,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,209500.0,0.0,209500.0,UPI,In-Store
+TXN5284,2025-02-11 00:00:00,2025-02,2025,C2038,Jairaj Iyer,Hyderabad,Gold,P1052,Diamond Anklet #52,Anklets,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,173530.0,0.0,520590.0,Debit Card,In-Store
+TXN5685,2025-07-21 00:00:00,2025-07,2025,C2085,Chakradhar Bhatnagar,Kolkata,Gold,P1027,Diamond Anklet #27,Anklets,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,235240.0,0.0,470480.0,Net Banking,In-Store
+TXN5593,2023-04-16 00:00:00,2023-04,2023,C2058,Ishwar Bajaj,Bengaluru,Silver,P1004,Silver Necklace #4,Necklaces,Silver,S101,Aurelia Jewels - Surat,Surat,1,29860.0,0.0,29860.0,Debit Card,Online
+TXN5906,2023-11-07 00:00:00,2023-11,2023,C2098,Krish Kumar,Coimbatore,Platinum,P1047,Silver Pendant #47,Pendants,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,17170.0,10.0,15453.0,Cash,In-Store
+TXN5312,2023-02-06 00:00:00,2023-02,2023,C2046,Advika Rajagopal,Ahmedabad,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,124900.0,0.0,124900.0,Cash,In-Store
+TXN5327,2023-04-03 00:00:00,2023-04,2023,UNKNOWN,,,,P1008,Platinum Earring #8,Earrings,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,3,208750.0,10.0,563625.0,Cash,Online
+TXN5672,2023-09-23 00:00:00,2023-09,2023,C2028,Charles Dugal,Surat,Platinum,P1060,Diamond Pendant #60,Pendants,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,38690.0,5.0,73511.0,Credit Card,Online
+TXN5379,2023-08-30 00:00:00,2023-08,2023,C2150,Qasim Sarraf,Pune,Platinum,P1037,Platinum Bracelet #37,Bracelets,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,77600.0,5.0,221160.0,EMI,Online
+TXN5275,2025-08-07 00:00:00,2025-08,2025,C2130,Leena Pant,Chennai,Silver,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,17400.0,0.0,34800.0,Cash,Online
+TXN5003,2024-09-06 00:00:00,2024-09,2024,C2073,Watika Dhaliwal,Mumbai,Silver,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S101,Aurelia Jewels - Surat,Surat,2,54540.0,10.0,98172.0,EMI,In-Store
+TXN5278,2024-03-30 00:00:00,2024-03,2024,C2006,Finn Saini,Mumbai,Gold,P1019,Diamond Bangle #19,Bangles,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,9420.0,10.0,8478.0,Cash,In-Store
+TXN5131,2025-01-13 00:00:00,2025-01,2025,C2011,William Maharaj,Lucknow,,P1023,Gold Necklace #23,Necklaces,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,59670.0,0.0,119340.0,Cash,Online
+TXN5118,2023-06-14 00:00:00,2023-06,2023,C2133,Triya Khurana,Mumbai,,P1003,Platinum Bangle #3,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,44920.0,0.0,44920.0,Net Banking,In-Store
+TXN5319,2023-02-18 00:00:00,2023-02,2023,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1026,Silver Necklace #26,Necklaces,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,180560.0,10.0,162504.0,UPI,In-Store
+TXN5154,2023-08-14 00:00:00,2023-08,2023,C2021,Guneet Chaudhry,Pune,,P1028,Gold Nose Pin #28,Nose Pins,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,74030.0,15.0,125851.0,Cash,Online
+TXN5781,2023-12-14 00:00:00,2023-12,2023,C2137,Ekanta Kala,Bengaluru,Gold,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,102760.0,0.0,102760.0,Credit Card,Online
+TXN5735,2023-02-07 00:00:00,2023-02,2023,C2102,Jagdish Brar,Lucknow,Gold,P1016,Diamond Necklace #16,Necklaces,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,135610.0,5.0,128829.5,EMI,In-Store
+TXN5642,2025-02-23 00:00:00,2025-02,2025,C2033,Triya Manda,Delhi,,P1028,Gold Nose Pin #28,Nose Pins,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,32430.0,10.0,29187.0,UPI,In-Store
+TXN5543,2023-05-28 00:00:00,2023-05,2023,C2109,Brijesh Soman,Delhi,Silver,P1016,Diamond Necklace #16,Necklaces,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,17740.0,5.0,33706.0,Cash,Online
+TXN5727,2023-07-02 00:00:00,2023-07,2023,C2095,Theodore Sura,Surat,Silver,P1024,Gold Bracelet #24,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,154200.0,0.0,154200.0,EMI,Online
+TXN5349,2024-05-10 00:00:00,2024-05,2024,UNKNOWN,,,,P1043,Rose Gold Ring #43,Rings,Rose Gold,S101,Aurelia Jewels - Surat,Surat,3,242560.0,0.0,727680.0,UPI,Online
+TXN5033,2025-01-21 00:00:00,2025-01,2025,C2076,Oliver Kakar,Lucknow,Gold,P1009,Silver Ring #9,Rings,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,237400.0,0.0,237400.0,Net Banking,Online
+TXN5209,2024-02-10 00:00:00,2024-02,2024,C2147,Rajata Kuruvilla,Jaipur,,P1040,Silver Nose Pin #40,Nose Pins,Silver,S101,Aurelia Jewels - Surat,Surat,1,51730.0,0.0,51730.0,Cash,Online
+TXN5305,2023-08-20 00:00:00,2023-08,2023,C2105,Anika Saxena,Chennai,Gold,P1019,Diamond Bangle #19,Bangles,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,214770.0,0.0,429540.0,EMI,Online
+TXN5546,2023-02-02 00:00:00,2023-02,2023,C2045,Patrick Bansal,Bengaluru,Silver,P1033,Gold Pendant #33,Pendants,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,101510.0,0.0,101510.0,Net Banking,In-Store
+TXN5568,2024-02-28 00:00:00,2024-02,2024,C2091,Oliver Yogi,Mumbai,Silver,P1023,Gold Necklace #23,Necklaces,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,31890.0,0.0,95670.0,UPI,Online
+TXN5234,2024-10-07 00:00:00,2024-10,2024,C2020,Tamanna Nagy,Chennai,,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,226280.0,0.0,226280.0,Cash,In-Store
+TXN5813,2024-11-19 00:00:00,2024-11,2024,UNKNOWN,,,,P1027,Diamond Anklet #27,Anklets,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,89440.0,0.0,89440.0,Net Banking,In-Store
+TXN5149,2023-06-09 00:00:00,2023-06,2023,C2100,Balendra Parsa,Hyderabad,Silver,P1020,Silver Ring #20,Rings,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,185450.0,5.0,352355.0,Debit Card,Online
+TXN5920,2023-05-02 00:00:00,2023-05,2023,C2092,Gabriel Manda,Pune,,P1043,Rose Gold Ring #43,Rings,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,175660.0,0.0,175660.0,UPI,In-Store
+TXN5702,2023-08-26 00:00:00,2023-08,2023,C2024,Oni Dubey,Chennai,Gold,P1060,Diamond Pendant #60,Pendants,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,44550.0,10.0,40095.0,Credit Card,Online
+TXN5459,2023-03-27 00:00:00,2023-03,2023,UNKNOWN,,,,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,67290.0,0.0,67290.0,UPI,In-Store
+TXN5549,2024-09-09 00:00:00,2024-09,2024,C2008,Gaurangi Sabharwal,Surat,Silver,P1016,Diamond Necklace #16,Necklaces,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,137230.0,0.0,137230.0,UPI,Online
+TXN5872,2024-08-08 00:00:00,2024-08,2024,C2023,Chakrika Nigam,Ahmedabad,,P1056,Diamond Bangle #56,Bangles,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,181880.0,10.0,163692.0,Net Banking,Online
+TXN5743,2023-08-01 00:00:00,2023-08,2023,C2137,Ekanta Kala,Bengaluru,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,188710.0,0.0,377420.0,Credit Card,Online
+TXN5141,2025-05-24 00:00:00,2025-05,2025,C2072,Kalpit Oak,Surat,Gold,P1029,Silver Bangle #29,Bangles,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,244900.0,0.0,244900.0,EMI,Online
+TXN5581,2023-07-17 00:00:00,2023-07,2023,C2008,Gaurangi Sabharwal,Surat,Silver,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,57210.0,10.0,51489.0,Credit Card,Online
+TXN5800,2023-06-03 00:00:00,2023-06,2023,C2111,Chandran Peri,Pune,Gold,P1042,Gold Earring #42,Earrings,Gold,S101,Aurelia Jewels - Surat,Surat,1,27270.0,0.0,27270.0,Credit Card,Online
+TXN5109,2024-05-13 00:00:00,2024-05,2024,C2028,Charles Dugal,Surat,Platinum,P1012,Gold Necklace #12,Necklaces,Gold,S102,Aurelia Jewels - Chennai,Chennai,2,215240.0,10.0,387432.0,UPI,Online
+TXN5805,2023-08-02 00:00:00,2023-08,2023,UNKNOWN,,,,P1021,Silver Bracelet #21,Bracelets,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,189770.0,0.0,189770.0,Debit Card,In-Store
+TXN5834,2024-09-29 00:00:00,2024-09,2024,C2139,Oni Issac,Mumbai,Silver,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,234020.0,5.0,444638.0,Net Banking,Online
+TXN5879,2024-06-04 00:00:00,2024-06,2024,C2124,Garima Pandya,Hyderabad,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,191800.0,10.0,345240.0,Debit Card,Online
+TXN5844,2024-01-22 00:00:00,2024-01,2024,C2049,Eiravati Nagi,Lucknow,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,151630.0,0.0,303260.0,Credit Card,Online
+TXN5795,2023-03-26 00:00:00,2023-03,2023,C2025,Owen Choudhary,Delhi,Silver,P1046,Rose Gold Ring #46,Rings,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,222180.0,10.0,399924.0,UPI,In-Store
+TXN5185,2023-08-25 00:00:00,2023-08,2023,C2132,Mitesh Tandon,Coimbatore,Platinum,P1046,Rose Gold Ring #46,Rings,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,3,123230.0,0.0,369690.0,Debit Card,In-Store
+TXN5563,2023-02-25 00:00:00,2023-02,2023,C2111,Chandran Peri,Pune,Gold,P1022,Diamond Pendant #22,Pendants,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,52860.0,0.0,52860.0,Cash,Online
+TXN5462,2023-09-19 00:00:00,2023-09,2023,C2090,Qarin Verma,Lucknow,,P1033,Gold Pendant #33,Pendants,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,175330.0,0.0,525990.0,EMI,Online
+TXN5214,2023-07-14 00:00:00,2023-07,2023,C2125,Guneet Varty,Ahmedabad,Platinum,P1047,Silver Pendant #47,Pendants,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,3,39250.0,5.0,111862.5,Debit Card,In-Store
+TXN5862,2023-11-20 00:00:00,2023-11,2023,C2116,Chatresh Shroff,Coimbatore,Silver,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,75280.0,5.0,71516.0,Debit Card,In-Store
+TXN5660,2024-06-07 00:00:00,2024-06,2024,C2132,Mitesh Tandon,Coimbatore,Platinum,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,2,97190.0,5.0,184661.0,Cash,Online
+TXN5143,2024-02-12 00:00:00,2024-02,2024,C2042,Manthan Varma,Mumbai,Gold,P1004,Silver Necklace #4,Necklaces,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,121230.0,0.0,242460.0,EMI,In-Store
+TXN5254,2023-05-25 00:00:00,2023-05,2023,C2005,Girik Khalsa,Hyderabad,Silver,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,2,176520.0,5.0,335388.0,EMI,In-Store
+TXN5707,2023-01-06 00:00:00,2023-01,2023,C2080,Hemal Kapadia,Coimbatore,Silver,P1022,Diamond Pendant #22,Pendants,Diamond,S102,Aurelia Jewels - Chennai,Chennai,3,229290.0,0.0,687870.0,Net Banking,Online
+TXN5263,2023-01-30 00:00:00,2023-01,2023,C2133,Triya Khurana,Mumbai,,P1008,Platinum Earring #8,Earrings,Platinum,S102,Aurelia Jewels - Chennai,Chennai,2,181470.0,10.0,326646.0,Cash,In-Store
+TXN5633,2024-12-16 00:00:00,2024-12,2024,C2097,Qabil Vaidya,Kolkata,,P1009,Silver Ring #9,Rings,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,66110.0,15.0,112387.0,Debit Card,Online
+TXN5072,2025-07-17 00:00:00,2025-07,2025,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1043,Rose Gold Ring #43,Rings,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,237560.0,0.0,237560.0,EMI,In-Store
+TXN5791,2025-03-16 00:00:00,2025-03,2025,C2008,Gaurangi Sabharwal,Surat,Silver,P1032,Gold Anklet #32,Anklets,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,103300.0,15.0,175610.0,Net Banking,Online
+TXN5390,2024-06-24 00:00:00,2024-06,2024,C2098,Krish Kumar,Coimbatore,Platinum,P1017,Platinum Necklace #17,Necklaces,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,245030.0,15.0,208275.5,Debit Card,In-Store
+TXN5794,2024-04-25 00:00:00,2024-04,2024,C2033,Triya Manda,Delhi,,P1021,Silver Bracelet #21,Bracelets,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,121540.0,10.0,109386.0,Debit Card,Online
+TXN5514,2023-10-16 00:00:00,2023-10,2023,C2022,Rushil Rajagopalan,Hyderabad,Platinum,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,155930.0,5.0,296267.0,Debit Card,Online
+TXN5749,2025-01-30 00:00:00,2025-01,2025,C2100,Balendra Parsa,Hyderabad,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,116610.0,10.0,104949.0,Debit Card,Online
+TXN5925,2023-09-17 00:00:00,2023-09,2023,C2031,Yachana Dora,Kolkata,Platinum,P1045,Platinum Bangle #45,Bangles,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,225960.0,5.0,214662.0,Credit Card,In-Store
+TXN5129,2023-07-26 00:00:00,2023-07,2023,C2134,Neel Borah,Delhi,,P1019,Diamond Bangle #19,Bangles,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,196850.0,10.0,177165.0,Net Banking,Online
+TXN5467,2023-06-30 00:00:00,2023-06,2023,C2048,Kiaan Pall,Pune,Silver,P1046,Rose Gold Ring #46,Rings,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,123670.0,0.0,247340.0,Cash,Online
+TXN5004,2025-03-13 00:00:00,2025-03,2025,C2128,Vidhi Contractor,Mumbai,Gold,P1025,Diamond Earring #25,Earrings,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,126900.0,0.0,253800.0,UPI,Online
+TXN5836,2023-09-03 00:00:00,2023-09,2023,C2049,Eiravati Nagi,Lucknow,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,92150.0,0.0,92150.0,EMI,Online
+TXN5681,2024-09-07 00:00:00,2024-09,2024,C2061,Liam Jhaveri,Coimbatore,Silver,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,128840.0,0.0,257680.0,Credit Card,In-Store
+TXN5217,2023-10-07 00:00:00,2023-10,2023,C2041,Bhavika Yadav,Chennai,Silver,P1018,Platinum Ring #18,Rings,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,239740.0,0.0,239740.0,Debit Card,In-Store
+TXN5402,2024-03-31 00:00:00,2024-03,2024,C2057,Ojas Basu,Coimbatore,Gold,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S101,Aurelia Jewels - Surat,Surat,2,171420.0,10.0,308556.0,Credit Card,Online
+TXN5231,2025-04-05 00:00:00,2025-04,2025,C2118,Max Guha,Kolkata,Silver,P1058,Silver Bangle #58,Bangles,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,115780.0,0.0,115780.0,Cash,Online
+TXN5767,2023-11-23 00:00:00,2023-11,2023,C2122,Ekansh Sane,Mumbai,Gold,P1032,Gold Anklet #32,Anklets,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,20130.0,15.0,17110.5,Credit Card,In-Store
+TXN5717,2024-08-05 00:00:00,2024-08,2024,C2113,Lakshit Lanka,Surat,Silver,P1023,Gold Necklace #23,Necklaces,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,88180.0,15.0,149906.0,Credit Card,In-Store
+TXN5338,2023-05-14 00:00:00,2023-05,2023,C2053,Victor Kakar,Chennai,Silver,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,182770.0,5.0,347263.0,Cash,Online
+TXN5837,2024-07-30 00:00:00,2024-07,2024,C2138,Charvi Pall,Coimbatore,,P1034,Platinum Pendant #34,Pendants,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,73510.0,10.0,132318.0,UPI,In-Store
+TXN5617,2025-07-14 00:00:00,2025-07,2025,C2067,Nandini Biswas,Kolkata,Silver,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,46630.0,10.0,83934.0,Net Banking,Online
+TXN5607,2023-01-14 00:00:00,2023-01,2023,C2123,Oeshi Sachdev,Hyderabad,Silver,P1028,Gold Nose Pin #28,Nose Pins,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,47670.0,0.0,47670.0,Debit Card,In-Store
+TXN5734,2025-02-24 00:00:00,2025-02,2025,C2140,Victor Chadha,Delhi,Gold,P1018,Platinum Ring #18,Rings,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,91790.0,10.0,165222.0,UPI,Online
+TXN5939,2023-05-10 00:00:00,2023-05,2023,UNKNOWN,,,,P1033,Gold Pendant #33,Pendants,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,232000.0,10.0,626400.0,Net Banking,In-Store
+TXN5913,2023-06-28 00:00:00,2023-06,2023,C2103,Warjas Luthra,Jaipur,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,192760.0,0.0,578280.0,EMI,In-Store
+TXN5177,2024-06-20 00:00:00,2024-06,2024,C2082,Chakradev Misra,Kolkata,Gold,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,3,127590.0,0.0,382770.0,EMI,In-Store
+TXN5455,2023-07-30 00:00:00,2023-07,2023,C2014,Rajata Loyal,Kolkata,Gold,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,153580.0,10.0,276444.0,Debit Card,Online
+TXN5452,2024-06-07 00:00:00,2024-06,2024,C2060,Nilima Swamy,Mumbai,,P1033,Gold Pendant #33,Pendants,Gold,S101,Aurelia Jewels - Surat,Surat,2,9220.0,0.0,18440.0,UPI,In-Store
+TXN5433,2023-12-14 00:00:00,2023-12,2023,C2109,Brijesh Soman,Delhi,Silver,P1028,Gold Nose Pin #28,Nose Pins,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,84220.0,0.0,168440.0,Debit Card,In-Store
+TXN5187,2023-08-30 00:00:00,2023-08,2023,C2071,Ayushman Mand,Mumbai,Silver,P1052,Diamond Anklet #52,Anklets,Diamond,S101,Aurelia Jewels - Surat,Surat,2,220150.0,0.0,440300.0,Net Banking,Online
+TXN5401,2023-12-28 00:00:00,2023-12,2023,UNKNOWN,,,,P1023,Gold Necklace #23,Necklaces,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,210430.0,0.0,210430.0,Credit Card,In-Store
+TXN5674,2024-05-20 00:00:00,2024-05,2024,C2023,Chakrika Nigam,Ahmedabad,,P1056,Diamond Bangle #56,Bangles,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,2,183980.0,10.0,331164.0,Credit Card,Online
+TXN5155,2023-04-24 00:00:00,2023-04,2023,C2118,Max Guha,Kolkata,Silver,P1040,Silver Nose Pin #40,Nose Pins,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,176320.0,10.0,317376.0,Credit Card,Online
+TXN5818,2023-12-26 00:00:00,2023-12,2023,C2114,Yamini Chana,Surat,Platinum,P1058,Silver Bangle #58,Bangles,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,239990.0,0.0,239990.0,Debit Card,In-Store
+TXN5652,2023-06-16 00:00:00,2023-06,2023,C2121,Wazir Kalla,Kolkata,Silver,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,227300.0,15.0,193205.0,Credit Card,In-Store
+TXN5492,2024-02-04 00:00:00,2024-02,2024,C2032,Joshua Vyas,Jaipur,Silver,P1003,Platinum Bangle #3,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,164550.0,15.0,279735.0,Credit Card,Online
+TXN5755,2025-02-14 00:00:00,2025-02,2025,C2088,Sai Kadakia,Surat,,P1019,Diamond Bangle #19,Bangles,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,197690.0,15.0,504109.5,Net Banking,Online
+TXN5223,2025-03-26 00:00:00,2025-03,2025,C2084,Bina Parsa,Pune,Gold,P1036,Diamond Necklace #36,Necklaces,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,135060.0,0.0,270120.0,Debit Card,Online
+TXN5123,2025-02-23 00:00:00,2025-02,2025,C2022,Rushil Rajagopalan,Hyderabad,Platinum,P1019,Diamond Bangle #19,Bangles,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,50500.0,0.0,101000.0,Net Banking,Online
+TXN5297,2025-07-27 00:00:00,2025-07,2025,C2030,Rudra Ghose,Mumbai,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,121960.0,10.0,109764.0,Debit Card,In-Store
+TXN5164,2025-01-19 00:00:00,2025-01,2025,C2071,Ayushman Mand,Mumbai,Silver,P1056,Diamond Bangle #56,Bangles,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,134660.0,15.0,114461.0,Net Banking,In-Store
+TXN5775,2025-02-06 00:00:00,2025-02,2025,C2084,Bina Parsa,Pune,Gold,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,218990.0,10.0,197091.0,Net Banking,In-Store
+TXN5737,2023-12-12 00:00:00,2023-12,2023,C2078,Oscar Hans,Jaipur,Silver,P1028,Gold Nose Pin #28,Nose Pins,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,49250.0,0.0,49250.0,Cash,Online
+TXN5145,2023-11-29 00:00:00,2023-11,2023,C2132,Mitesh Tandon,Coimbatore,Platinum,P1032,Gold Anklet #32,Anklets,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,97740.0,5.0,92853.0,Debit Card,In-Store
+TXN5630,2024-09-12 00:00:00,2024-09,2024,C2047,Mason Gala,Pune,,P1037,Platinum Bracelet #37,Bracelets,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,175650.0,10.0,158085.0,Net Banking,Online
+TXN5371,2025-02-26 00:00:00,2025-02,2025,C2063,Faras Deo,Bengaluru,Silver,P1054,Silver Bangle #54,Bangles,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,74540.0,15.0,190077.0,UPI,In-Store
+TXN5065,2023-09-12 00:00:00,2023-09,2023,C2089,Omaja Munshi,Ahmedabad,,P1020,Silver Ring #20,Rings,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,98350.0,5.0,93432.5,Credit Card,In-Store
+TXN5230,2023-07-06 00:00:00,2023-07,2023,C2033,Triya Manda,Delhi,,P1009,Silver Ring #9,Rings,Silver,S101,Aurelia Jewels - Surat,Surat,1,163500.0,0.0,163500.0,EMI,Online
+TXN5634,2025-04-08 00:00:00,2025-04,2025,C2023,Chakrika Nigam,Ahmedabad,,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,54070.0,0.0,54070.0,UPI,Online
+TXN5769,2023-07-16 00:00:00,2023-07,2023,C2044,Bina Basak,Lucknow,Gold,P1055,Silver Bracelet #55,Bracelets,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,84120.0,0.0,84120.0,EMI,In-Store
+TXN5848,2024-03-24 00:00:00,2024-03,2024,C2037,Leela Bali,Delhi,Silver,P1029,Silver Bangle #29,Bangles,Silver,S101,Aurelia Jewels - Surat,Surat,2,193060.0,0.0,386120.0,Net Banking,Online
+TXN5031,2023-01-07 00:00:00,2023-01,2023,C2016,Ishaan Bhattacharyya,Hyderabad,,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,194490.0,10.0,175041.0,Credit Card,In-Store
+TXN5019,2023-10-06 00:00:00,2023-10,2023,C2020,Tamanna Nagy,Chennai,,P1006,Diamond Earring #6,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,195860.0,5.0,186067.0,Credit Card,In-Store
+TXN5677,2023-05-15 00:00:00,2023-05,2023,C2023,Chakrika Nigam,Ahmedabad,,P1006,Diamond Earring #6,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,110840.0,10.0,99756.0,EMI,Online
+TXN5498,2024-06-28 00:00:00,2024-06,2024,C2142,Umang Nagi,Lucknow,Gold,P1027,Diamond Anklet #27,Anklets,Diamond,S102,Aurelia Jewels - Chennai,Chennai,3,161480.0,10.0,435996.0,UPI,Online
+TXN5436,2023-03-13 00:00:00,2023-03,2023,C2015,Pavani Narayanan,Hyderabad,Silver,P1024,Gold Bracelet #24,Bracelets,Gold,S101,Aurelia Jewels - Surat,Surat,1,84390.0,0.0,84390.0,Debit Card,Online
+TXN5124,2024-05-12 00:00:00,2024-05,2024,C2105,Anika Saxena,Chennai,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S102,Aurelia Jewels - Chennai,Chennai,1,108810.0,15.0,92488.5,Net Banking,In-Store
+TXN5108,2024-10-18 00:00:00,2024-10,2024,C2071,Ayushman Mand,Mumbai,Silver,P1054,Silver Bangle #54,Bangles,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,171180.0,0.0,171180.0,Cash,In-Store
+TXN5693,2023-07-02 00:00:00,2023-07,2023,C2146,Vaishnavi Vohra,Ahmedabad,,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,69960.0,0.0,69960.0,Net Banking,In-Store
+TXN5465,2024-08-23 00:00:00,2024-08,2024,C2106,Krishna Zacharia,Bengaluru,Platinum,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,160500.0,10.0,144450.0,Debit Card,Online
+TXN5121,2024-09-12 00:00:00,2024-09,2024,C2046,Advika Rajagopal,Ahmedabad,Silver,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,26920.0,0.0,26920.0,EMI,In-Store
+TXN5215,2024-12-31 00:00:00,2024-12,2024,C2030,Rudra Ghose,Mumbai,Silver,P1001,Gold Ring #1,Rings,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,173010.0,0.0,173010.0,UPI,Online
+TXN5575,2024-10-08 00:00:00,2024-10,2024,C2101,Yagnesh Nori,Chennai,,P1054,Silver Bangle #54,Bangles,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,1,237380.0,0.0,237380.0,Credit Card,Online
+TXN5712,2023-10-10 00:00:00,2023-10,2023,C2051,Madhav Babu,Pune,Platinum,P1045,Platinum Bangle #45,Bangles,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,160280.0,0.0,160280.0,UPI,In-Store
+TXN5550,2023-03-29 00:00:00,2023-03,2023,C2146,Vaishnavi Vohra,Ahmedabad,,P1003,Platinum Bangle #3,Bangles,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,15820.0,15.0,13447.0,Credit Card,In-Store
+TXN5261,2024-11-06 00:00:00,2024-11,2024,C2071,Ayushman Mand,Mumbai,Silver,P1004,Silver Necklace #4,Necklaces,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,199970.0,0.0,199970.0,Cash,Online
+TXN5812,2025-05-07 00:00:00,2025-05,2025,C2097,Qabil Vaidya,Kolkata,,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,152010.0,0.0,152010.0,Net Banking,Online
+TXN5569,2025-05-15 00:00:00,2025-05,2025,C2113,Lakshit Lanka,Surat,Silver,P1041,Platinum Earring #41,Earrings,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,248860.0,0.0,248860.0,Credit Card,In-Store
+TXN5243,2023-04-11 00:00:00,2023-04,2023,C2027,Yashica Kala,Delhi,Silver,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,57980.0,10.0,156546.0,Credit Card,Online
+TXN5643,2025-07-29 00:00:00,2025-07,2025,C2061,Liam Jhaveri,Coimbatore,Silver,P1015,Platinum Bracelet #15,Bracelets,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,59870.0,0.0,59870.0,Credit Card,Online
+TXN5541,2024-07-16 00:00:00,2024-07,2024,C2139,Oni Issac,Mumbai,Silver,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,98620.0,0.0,197240.0,Net Banking,Online
+TXN5341,2024-04-27 00:00:00,2024-04,2024,UNKNOWN,,,,P1046,Rose Gold Ring #46,Rings,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,66400.0,15.0,56440.0,Cash,In-Store
+TXN5174,2025-03-01 00:00:00,2025-03,2025,C2071,Ayushman Mand,Mumbai,Silver,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,13280.0,5.0,12616.0,UPI,Online
+TXN5819,2024-02-12 00:00:00,2024-02,2024,C2020,Tamanna Nagy,Chennai,,P1013,Diamond Earring #13,Earrings,,S102,Aurelia Jewels - Chennai,Chennai,1,179070.0,0.0,179070.0,UPI,In-Store
+TXN5353,2024-07-30 00:00:00,2024-07,2024,C2110,Mohammed Sengupta,Pune,,P1006,Diamond Earring #6,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,155010.0,0.0,465030.0,Credit Card,In-Store
+TXN5890,2025-04-24 00:00:00,2025-04,2025,C2125,Guneet Varty,Ahmedabad,Platinum,P1036,Diamond Necklace #36,Necklaces,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,2,239340.0,10.0,430812.0,Net Banking,Online
+TXN5552,2025-03-26 00:00:00,2025-03,2025,C2124,Garima Pandya,Hyderabad,Gold,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,2,43660.0,0.0,87320.0,EMI,Online
+TXN5784,2024-10-03 00:00:00,2024-10,2024,C2060,Nilima Swamy,Mumbai,,P1060,Diamond Pendant #60,Pendants,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,10710.0,0.0,32130.0,Credit Card,Online
+TXN5557,2024-03-27 00:00:00,2024-03,2024,C2133,Triya Khurana,Mumbai,,P1055,Silver Bracelet #55,Bracelets,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,3,24540.0,0.0,73620.0,UPI,Online
+TXN5473,2024-11-07 00:00:00,2024-11,2024,C2001,Kritika Brar,Chennai,Silver,P1041,Platinum Earring #41,Earrings,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,159910.0,10.0,143919.0,EMI,Online
+TXN5942,2024-10-10 00:00:00,2024-10,2024,C2047,Mason Gala,Pune,,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,64430.0,15.0,164296.5,Net Banking,In-Store
+TXN5947,2024-09-10 00:00:00,2024-09,2024,C2069,Tanveer Narang,Jaipur,Silver,P1060,Diamond Pendant #60,Pendants,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,2,41320.0,10.0,74376.0,Debit Card,In-Store
+TXN5692,2023-03-27 00:00:00,2023-03,2023,C2104,Aachal Soni,Hyderabad,Gold,P1040,Silver Nose Pin #40,Nose Pins,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,18500.0,0.0,37000.0,UPI,In-Store
+TXN5916,2024-05-28 00:00:00,2024-05,2024,C2011,William Maharaj,Lucknow,,P1034,Platinum Pendant #34,Pendants,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,66660.0,5.0,63327.0,EMI,In-Store
+TXN5034,2024-09-18 00:00:00,2024-09,2024,C2146,Vaishnavi Vohra,Ahmedabad,,P1007,Silver Anklet #7,Anklets,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,85470.0,10.0,76923.0,UPI,Online
+TXN5071,2024-01-02 00:00:00,2024-01,2024,C2105,Anika Saxena,Chennai,Gold,P1019,Diamond Bangle #19,Bangles,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,138840.0,0.0,138840.0,UPI,Online
+TXN5314,2023-03-04 00:00:00,2023-03,2023,UNKNOWN,,,,P1003,Platinum Bangle #3,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,3,89820.0,0.0,269460.0,EMI,In-Store
+TXN5691,2024-05-03 00:00:00,2024-05,2024,C2028,Charles Dugal,Surat,Platinum,P1042,Gold Earring #42,Earrings,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,3,39370.0,0.0,118110.0,Credit Card,Online
+TXN5037,2025-05-16 00:00:00,2025-05,2025,C2076,Oliver Kakar,Lucknow,Gold,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,238110.0,5.0,452409.0,Cash,Online
+TXN5270,2023-01-13 00:00:00,2023-01,2023,C2105,Anika Saxena,Chennai,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,92170.0,0.0,92170.0,Credit Card,In-Store
+TXN5606,2025-07-18 00:00:00,2025-07,2025,C2124,Garima Pandya,Hyderabad,Gold,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,45880.0,5.0,87172.0,Debit Card,In-Store
+TXN5524,2024-02-12 00:00:00,2024-02,2024,C2138,Charvi Pall,Coimbatore,,P1056,Diamond Bangle #56,Bangles,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,111690.0,0.0,111690.0,Cash,In-Store
+TXN5777,2025-02-04 00:00:00,2025-02,2025,C2048,Kiaan Pall,Pune,Silver,P1021,Silver Bracelet #21,Bracelets,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,117360.0,15.0,199512.0,UPI,Online
+TXN5508,2023-12-31 00:00:00,2023-12,2023,C2119,Lajita Munshi,Jaipur,,P1022,Diamond Pendant #22,Pendants,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,3,30360.0,5.0,86526.0,Cash,Online
+TXN5570,2024-05-23 00:00:00,2024-05,2024,C2141,Tripti Bajwa,Lucknow,Gold,P1007,Silver Anklet #7,Anklets,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,168260.0,10.0,151434.0,Debit Card,In-Store
+TXN5422,2023-05-14 00:00:00,2023-05,2023,C2050,George Wason,Jaipur,,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,82220.0,10.0,221994.0,Credit Card,In-Store
+TXN5088,2024-04-08 00:00:00,2024-04,2024,C2036,Ria Raju,Jaipur,,P1027,Diamond Anklet #27,Anklets,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,3,179120.0,10.0,483624.0,Debit Card,In-Store
+TXN5099,2025-03-02 00:00:00,2025-03,2025,C2138,Charvi Pall,Coimbatore,,P1001,Gold Ring #1,Rings,Gold,S102,Aurelia Jewels - Chennai,Chennai,2,168900.0,0.0,337800.0,Credit Card,In-Store
+TXN5421,2023-12-13 00:00:00,2023-12,2023,C2079,Udarsh Krishnan,Pune,Platinum,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,203130.0,0.0,609390.0,EMI,Online
+TXN5315,2024-03-14 00:00:00,2024-03,2024,C2092,Gabriel Manda,Pune,,P1027,Diamond Anklet #27,Anklets,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,166670.0,15.0,141669.5,Net Banking,Online
+TXN5756,2023-01-27 00:00:00,2023-01,2023,C2095,Theodore Sura,Surat,Silver,P1037,Platinum Bracelet #37,Bracelets,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,2,79440.0,15.0,135048.0,Cash,In-Store
+TXN5020,2023-11-18 00:00:00,2023-11,2023,C2031,Yachana Dora,Kolkata,Platinum,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,115170.0,0.0,230340.0,Credit Card,In-Store
+TXN5521,2025-07-23 00:00:00,2025-07,2025,C2049,Eiravati Nagi,Lucknow,Silver,P1013,Diamond Earring #13,Earrings,,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,22420.0,10.0,20178.0,UPI,In-Store
+TXN5833,2023-12-08 00:00:00,2023-12,2023,C2025,Owen Choudhary,Delhi,Silver,P1056,Diamond Bangle #56,Bangles,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,3,145200.0,5.0,413820.0,Net Banking,In-Store
+TXN5085,2025-05-22 00:00:00,2025-05,2025,C2056,Eiravati Manne,Kolkata,Gold,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,30510.0,0.0,91530.0,Cash,Online
+TXN5895,2025-02-13 00:00:00,2025-02,2025,C2011,William Maharaj,Lucknow,,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,126180.0,5.0,119871.0,Debit Card,Online
+TXN5293,2024-08-12 00:00:00,2024-08,2024,C2067,Nandini Biswas,Kolkata,Silver,P1011,Gold Bracelet #11,Bracelets,Gold,S101,Aurelia Jewels - Surat,Surat,1,82640.0,5.0,78508.0,UPI,Online
+TXN5682,2024-02-26 00:00:00,2024-02,2024,C2115,Dalaja Gara,Lucknow,Gold,P1028,Gold Nose Pin #28,Nose Pins,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,228440.0,10.0,411192.0,UPI,Online
+TXN5710,2023-11-18 00:00:00,2023-11,2023,C2141,Tripti Bajwa,Lucknow,Gold,P1018,Platinum Ring #18,Rings,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,85840.0,10.0,77256.0,EMI,In-Store
+TXN5352,2025-01-23 00:00:00,2025-01,2025,UNKNOWN,,,,P1009,Silver Ring #9,Rings,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,208690.0,0.0,208690.0,Cash,In-Store
+TXN5348,2023-10-19 00:00:00,2023-10,2023,C2032,Joshua Vyas,Jaipur,Silver,P1026,Silver Necklace #26,Necklaces,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,209900.0,0.0,209900.0,Cash,In-Store
+TXN5188,2024-02-07 00:00:00,2024-02,2024,C2036,Ria Raju,Jaipur,,P1006,Diamond Earring #6,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,106660.0,0.0,213320.0,UPI,In-Store
+TXN5432,2023-08-03 00:00:00,2023-08,2023,C2117,Umang Doshi,Lucknow,Silver,P1055,Silver Bracelet #55,Bracelets,Silver,S101,Aurelia Jewels - Surat,Surat,3,38180.0,15.0,97359.0,EMI,In-Store
+TXN5659,2024-02-22 00:00:00,2024-02,2024,C2096,Siddharth Doctor,Lucknow,,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,43440.0,5.0,41268.0,Net Banking,Online
+TXN5626,2024-11-14 00:00:00,2024-11,2024,UNKNOWN,,,,P1032,Gold Anklet #32,Anklets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,100230.0,0.0,200460.0,Cash,In-Store
+TXN5910,2023-01-14 00:00:00,2023-01,2023,C2012,Lopa Nayar,Pune,Silver,P1043,Rose Gold Ring #43,Rings,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,178640.0,10.0,321552.0,UPI,In-Store
+TXN5091,2025-05-09 00:00:00,2025-05,2025,C2076,Oliver Kakar,Lucknow,Gold,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S101,Aurelia Jewels - Surat,Surat,3,204250.0,10.0,551475.0,EMI,Online
+TXN5523,2024-03-05 00:00:00,2024-03,2024,C2130,Leena Pant,Chennai,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S101,Aurelia Jewels - Surat,Surat,1,151390.0,5.0,143820.5,UPI,Online
+TXN5027,2025-07-23 00:00:00,2025-07,2025,C2130,Leena Pant,Chennai,Silver,P1021,Silver Bracelet #21,Bracelets,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,48230.0,10.0,86814.0,Credit Card,Online
+TXN5078,2024-12-22 00:00:00,2024-12,2024,C2136,Amol Bansal,Jaipur,Silver,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,131700.0,0.0,395100.0,Cash,Online
+TXN5332,2025-01-04 00:00:00,2025-01,2025,C2026,Lakshmi Wali,Coimbatore,Gold,P1053,Diamond Earring #53,Earrings,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,2,128560.0,10.0,231408.0,Cash,Online
+TXN5647,2023-10-14 00:00:00,2023-10,2023,C2053,Victor Kakar,Chennai,Silver,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,79020.0,0.0,158040.0,UPI,Online
+TXN5407,2023-11-20 00:00:00,2023-11,2023,C2101,Yagnesh Nori,Chennai,,P1013,Diamond Earring #13,Earrings,,S106,Aurelia Jewels - Lucknow,Lucknow,1,220500.0,10.0,198450.0,EMI,Online
+TXN5479,2025-02-01 00:00:00,2025-02,2025,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1024,Gold Bracelet #24,Bracelets,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,3,238700.0,0.0,716100.0,UPI,Online
+TXN5048,2023-02-20 00:00:00,2023-02,2023,C2123,Oeshi Sachdev,Hyderabad,Silver,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,3,8980.0,15.0,22899.0,UPI,In-Store
+TXN5648,2024-12-16 00:00:00,2024-12,2024,C2118,Max Guha,Kolkata,Silver,P1006,Diamond Earring #6,Earrings,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,126730.0,15.0,107720.5,Net Banking,In-Store
+TXN5627,2023-01-29 00:00:00,2023-01,2023,C2119,Lajita Munshi,Jaipur,,P1008,Platinum Earring #8,Earrings,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,146810.0,0.0,146810.0,Credit Card,Online
+TXN5657,2025-01-01 00:00:00,2025-01,2025,C2066,Anita Viswanathan,Mumbai,,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,151740.0,0.0,151740.0,Net Banking,Online
+TXN5077,2024-09-18 00:00:00,2024-09,2024,C2034,Liam Singh,Bengaluru,Gold,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,222350.0,0.0,222350.0,UPI,In-Store
+TXN5871,2023-03-27 00:00:00,2023-03,2023,C2022,Rushil Rajagopalan,Hyderabad,Platinum,P1052,Diamond Anklet #52,Anklets,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,9660.0,0.0,9660.0,Debit Card,Online
+TXN5408,2023-04-12 00:00:00,2023-04,2023,C2017,Vincent Mani,Pune,Gold,P1041,Platinum Earring #41,Earrings,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,122070.0,10.0,109863.0,UPI,Online
+TXN5894,2024-01-13 00:00:00,2024-01,2024,C2081,Tanvi Dhar,Pune,,P1054,Silver Bangle #54,Bangles,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,158710.0,0.0,158710.0,Debit Card,Online
+TXN5612,2025-06-16 00:00:00,2025-06,2025,C2045,Patrick Bansal,Bengaluru,Silver,P1017,Platinum Necklace #17,Necklaces,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,3,100190.0,15.0,255484.5,UPI,Online
+TXN5437,2023-03-12 00:00:00,2023-03,2023,C2053,Victor Kakar,Chennai,Silver,P1009,Silver Ring #9,Rings,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,110320.0,0.0,220640.0,Debit Card,Online
+TXN5193,2025-02-21 00:00:00,2025-02,2025,C2070,Megha Taneja,Surat,,P1006,Diamond Earring #6,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,186620.0,10.0,335916.0,Credit Card,In-Store
+TXN5304,2024-01-05 00:00:00,2024-01,2024,C2074,Girik Nigam,Jaipur,,P1036,Diamond Necklace #36,Necklaces,Diamond,S101,Aurelia Jewels - Surat,Surat,1,84720.0,15.0,72012.0,Cash,In-Store
+TXN5594,2025-04-11 00:00:00,2025-04,2025,C2139,Oni Issac,Mumbai,Silver,P1001,Gold Ring #1,Rings,Gold,S101,Aurelia Jewels - Surat,Surat,2,221300.0,0.0,442600.0,UPI,In-Store
+TXN5345,2023-08-24 00:00:00,2023-08,2023,C2010,Girik Keer,Bengaluru,Gold,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,177670.0,0.0,177670.0,Credit Card,In-Store
+TXN5169,2025-04-21 00:00:00,2025-04,2025,C2015,Pavani Narayanan,Hyderabad,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,184640.0,0.0,184640.0,Debit Card,Online
+TXN5294,2024-10-13 00:00:00,2024-10,2024,C2013,Udyati Kunda,Pune,Gold,P1019,Diamond Bangle #19,Bangles,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,130410.0,5.0,123889.5,Credit Card,In-Store
+TXN5241,2024-10-14 00:00:00,2024-10,2024,C2112,Nakul Walla,Surat,Silver,P1040,Silver Nose Pin #40,Nose Pins,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,3,70500.0,15.0,179775.0,EMI,In-Store
+TXN5578,2024-09-02 00:00:00,2024-09,2024,C2028,Charles Dugal,Surat,Platinum,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,224070.0,0.0,448140.0,UPI,In-Store
+TXN5220,2025-04-17 00:00:00,2025-04,2025,C2138,Charvi Pall,Coimbatore,,P1006,Diamond Earring #6,Earrings,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,26860.0,0.0,26860.0,Credit Card,In-Store
+TXN5451,2024-11-25 00:00:00,2024-11,2024,C2035,Madhavi Singhal,Jaipur,,P1022,Diamond Pendant #22,Pendants,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,3,244590.0,0.0,733770.0,UPI,In-Store
+TXN5699,2023-10-03 00:00:00,2023-10,2023,C2145,Robert Vyas,Pune,,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,158690.0,15.0,404659.5,UPI,In-Store
+TXN5380,2024-08-19 00:00:00,2024-08,2024,C2093,Elijah Mannan,Bengaluru,,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,179060.0,0.0,179060.0,Credit Card,In-Store
+TXN5342,2025-07-02 00:00:00,2025-07,2025,C2011,William Maharaj,Lucknow,,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,45790.0,10.0,82422.0,Cash,Online
+TXN5485,2023-05-15 00:00:00,2023-05,2023,C2150,Qasim Sarraf,Pune,Platinum,P1056,Diamond Bangle #56,Bangles,Diamond,S101,Aurelia Jewels - Surat,Surat,2,116550.0,5.0,221445.0,Cash,In-Store
+TXN5425,2023-10-02 00:00:00,2023-10,2023,C2103,Warjas Luthra,Jaipur,Gold,P1041,Platinum Earring #41,Earrings,Platinum,S101,Aurelia Jewels - Surat,Surat,2,58000.0,10.0,104400.0,Cash,In-Store
+TXN5625,2024-03-18 00:00:00,2024-03,2024,C2006,Finn Saini,Mumbai,Gold,P1012,Gold Necklace #12,Necklaces,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,46010.0,10.0,82818.0,Cash,In-Store
+TXN5443,2024-02-11 00:00:00,2024-02,2024,C2003,Neel Zacharia,Surat,Platinum,P1017,Platinum Necklace #17,Necklaces,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,84470.0,0.0,84470.0,Cash,Online
+TXN5788,2025-05-28 00:00:00,2025-05,2025,C2091,Oliver Yogi,Mumbai,Silver,P1024,Gold Bracelet #24,Bracelets,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,110800.0,15.0,94180.0,Debit Card,In-Store
+TXN5923,2023-03-26 00:00:00,2023-03,2023,C2025,Owen Choudhary,Delhi,Silver,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,63380.0,0.0,190140.0,UPI,In-Store
+TXN5590,2024-07-09 00:00:00,2024-07,2024,UNKNOWN,,,,P1025,Diamond Earring #25,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,74120.0,0.0,74120.0,Cash,Online
+TXN5493,2024-07-11 00:00:00,2024-07,2024,C2110,Mohammed Sengupta,Pune,,P1006,Diamond Earring #6,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,2,77950.0,15.0,132515.0,EMI,Online
+TXN5167,2023-02-02 00:00:00,2023-02,2023,C2028,Charles Dugal,Surat,Platinum,P1032,Gold Anklet #32,Anklets,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,11830.0,0.0,11830.0,EMI,In-Store
+TXN5249,2024-02-18 00:00:00,2024-02,2024,C2018,Zilmil Sathe,Surat,Gold,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,98570.0,0.0,98570.0,Credit Card,In-Store
+TXN5722,2025-03-03 00:00:00,2025-03,2025,C2149,Ronith Chokshi,Chennai,,P1026,Silver Necklace #26,Necklaces,Silver,S101,Aurelia Jewels - Surat,Surat,1,130000.0,10.0,117000.0,Net Banking,Online
+TXN5666,2023-09-27 00:00:00,2023-09,2023,C2122,Ekansh Sane,Mumbai,Gold,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,217890.0,0.0,217890.0,EMI,Online
+TXN5410,2025-07-27 00:00:00,2025-07,2025,C2097,Qabil Vaidya,Kolkata,,P1021,Silver Bracelet #21,Bracelets,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,19250.0,0.0,19250.0,UPI,In-Store
+TXN5861,2025-07-31 00:00:00,2025-07,2025,C2085,Chakradhar Bhatnagar,Kolkata,Gold,P1055,Silver Bracelet #55,Bracelets,Silver,S102,Aurelia Jewels - Chennai,Chennai,3,233160.0,5.0,664506.0,Debit Card,Online
+TXN5372,2024-10-06 00:00:00,2024-10,2024,C2063,Faras Deo,Bengaluru,Silver,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,37950.0,0.0,75900.0,Cash,In-Store
+TXN5518,2023-10-09 00:00:00,2023-10,2023,C2013,Udyati Kunda,Pune,Gold,P1012,Gold Necklace #12,Necklaces,Gold,S101,Aurelia Jewels - Surat,Surat,1,16820.0,10.0,15138.0,UPI,In-Store
+TXN5476,2024-11-06 00:00:00,2024-11,2024,C2023,Chakrika Nigam,Ahmedabad,,P1007,Silver Anklet #7,Anklets,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,43420.0,0.0,43420.0,UPI,In-Store
+TXN5768,2023-07-18 00:00:00,2023-07,2023,C2060,Nilima Swamy,Mumbai,,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,2,82720.0,0.0,165440.0,EMI,Online
+TXN5229,2024-12-29 00:00:00,2024-12,2024,C2104,Aachal Soni,Hyderabad,Gold,P1025,Diamond Earring #25,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,166970.0,10.0,300546.0,Net Banking,In-Store
+TXN5152,2025-02-15 00:00:00,2025-02,2025,C2089,Omaja Munshi,Ahmedabad,,P1019,Diamond Bangle #19,Bangles,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,173190.0,0.0,173190.0,UPI,In-Store
+TXN5110,2025-05-19 00:00:00,2025-05,2025,C2008,Gaurangi Sabharwal,Surat,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,226950.0,0.0,453900.0,EMI,In-Store
+TXN5264,2025-03-08 00:00:00,2025-03,2025,C2084,Bina Parsa,Pune,Gold,P1015,Platinum Bracelet #15,Bracelets,Platinum,S102,Aurelia Jewels - Chennai,Chennai,2,185490.0,0.0,370980.0,Debit Card,In-Store
+TXN5803,2023-04-13 00:00:00,2023-04,2023,C2043,Max Sachar,Ahmedabad,Silver,P1041,Platinum Earring #41,Earrings,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,137040.0,0.0,137040.0,Debit Card,Online
+TXN5511,2023-06-01 00:00:00,2023-06,2023,C2051,Madhav Babu,Pune,Platinum,P1008,Platinum Earring #8,Earrings,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,13900.0,10.0,25020.0,Credit Card,Online
+TXN5337,2024-04-09 00:00:00,2024-04,2024,C2128,Vidhi Contractor,Mumbai,Gold,P1008,Platinum Earring #8,Earrings,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,50870.0,15.0,86479.0,UPI,In-Store
+TXN5591,2024-06-30 00:00:00,2024-06,2024,C2011,William Maharaj,Lucknow,,P1022,Diamond Pendant #22,Pendants,Diamond,S101,Aurelia Jewels - Surat,Surat,1,119590.0,0.0,119590.0,EMI,In-Store
+TXN5445,2024-11-18 00:00:00,2024-11,2024,C2070,Megha Taneja,Surat,,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,47770.0,10.0,128979.0,Cash,Online
+TXN5901,2023-06-05 00:00:00,2023-06,2023,C2002,Alka Dewan,Delhi,Gold,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,140840.0,5.0,267596.0,Debit Card,In-Store
+TXN5232,2023-01-08 00:00:00,2023-01,2023,C2129,Kala Bera,Mumbai,Gold,P1055,Silver Bracelet #55,Bracelets,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,105070.0,10.0,189126.0,Credit Card,In-Store
+TXN5776,2023-12-02 00:00:00,2023-12,2023,C2141,Tripti Bajwa,Lucknow,Gold,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,173630.0,0.0,347260.0,EMI,In-Store
+TXN5641,2024-10-27 00:00:00,2024-10,2024,C2112,Nakul Walla,Surat,Silver,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,9280.0,10.0,16704.0,Net Banking,Online
+TXN5623,2025-01-06 00:00:00,2025-01,2025,C2126,Lohit Mander,Ahmedabad,Gold,P1040,Silver Nose Pin #40,Nose Pins,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,20520.0,0.0,20520.0,Net Banking,Online
+TXN5629,2025-01-06 00:00:00,2025-01,2025,C2087,Tanvi Halder,Ahmedabad,Gold,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,197100.0,0.0,394200.0,Credit Card,In-Store
+TXN5572,2024-05-11 00:00:00,2024-05,2024,C2079,Udarsh Krishnan,Pune,Platinum,P1054,Silver Bangle #54,Bangles,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,5020.0,0.0,10040.0,Credit Card,Online
+TXN5265,2023-02-25 00:00:00,2023-02,2023,C2038,Jairaj Iyer,Hyderabad,Gold,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,99280.0,10.0,89352.0,EMI,In-Store
+TXN5783,2023-07-05 00:00:00,2023-07,2023,C2007,Samar Lalla,Surat,Silver,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,136860.0,10.0,123174.0,UPI,Online
+TXN5937,2024-07-02 00:00:00,2024-07,2024,C2120,Praneel Setty,Jaipur,Silver,P1042,Gold Earring #42,Earrings,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,209740.0,15.0,356558.0,Cash,In-Store
+TXN5948,2024-07-08 00:00:00,2024-07,2024,C2005,Girik Khalsa,Hyderabad,Silver,P1021,Silver Bracelet #21,Bracelets,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,144530.0,15.0,122850.5,Cash,Online
+TXN5662,2023-10-03 00:00:00,2023-10,2023,C2149,Ronith Chokshi,Chennai,,P1019,Diamond Bangle #19,Bangles,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,63800.0,10.0,172260.0,Debit Card,In-Store
+TXN5480,2023-11-24 00:00:00,2023-11,2023,C2033,Triya Manda,Delhi,,P1034,Platinum Pendant #34,Pendants,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,101250.0,0.0,101250.0,UPI,In-Store
+TXN5878,2025-02-21 00:00:00,2025-02,2025,C2116,Chatresh Shroff,Coimbatore,Silver,P1001,Gold Ring #1,Rings,Gold,S102,Aurelia Jewels - Chennai,Chennai,3,148680.0,10.0,401436.0,EMI,In-Store
+TXN5595,2024-12-05 00:00:00,2024-12,2024,C2098,Krish Kumar,Coimbatore,Platinum,P1018,Platinum Ring #18,Rings,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,147530.0,10.0,132777.0,Debit Card,In-Store
+TXN5495,2023-05-18 00:00:00,2023-05,2023,C2143,Bishakha Gulati,Kolkata,Silver,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,2,35610.0,0.0,71220.0,Net Banking,In-Store
+TXN5272,2025-05-31 00:00:00,2025-05,2025,C2019,Ayush Khatri,Pune,Platinum,P1025,Diamond Earring #25,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,76960.0,10.0,69264.0,EMI,In-Store
+TXN5068,2023-09-19 00:00:00,2023-09,2023,C2013,Udyati Kunda,Pune,Gold,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S101,Aurelia Jewels - Surat,Surat,1,164780.0,0.0,164780.0,Cash,In-Store
+TXN5760,2023-08-18 00:00:00,2023-08,2023,C2072,Kalpit Oak,Surat,Gold,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S102,Aurelia Jewels - Chennai,Chennai,2,91700.0,0.0,183400.0,EMI,Online
+TXN5216,2024-11-05 00:00:00,2024-11,2024,C2080,Hemal Kapadia,Coimbatore,Silver,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,82940.0,15.0,140998.0,Net Banking,In-Store
+TXN5851,2024-12-02 00:00:00,2024-12,2024,C2105,Anika Saxena,Chennai,Gold,P1034,Platinum Pendant #34,Pendants,Platinum,S101,Aurelia Jewels - Surat,Surat,1,182120.0,0.0,182120.0,Debit Card,Online
+TXN5582,2024-12-09 00:00:00,2024-12,2024,C2069,Tanveer Narang,Jaipur,Silver,P1018,Platinum Ring #18,Rings,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,238490.0,15.0,405433.0,Cash,In-Store
+TXN5438,2023-01-08 00:00:00,2023-01,2023,C2116,Chatresh Shroff,Coimbatore,Silver,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,133360.0,0.0,266720.0,Cash,Online
+TXN5156,2023-04-15 00:00:00,2023-04,2023,C2069,Tanveer Narang,Jaipur,Silver,P1009,Silver Ring #9,Rings,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,61270.0,0.0,61270.0,Debit Card,In-Store
+TXN5428,2023-01-26 00:00:00,2023-01,2023,C2115,Dalaja Gara,Lucknow,Gold,P1015,Platinum Bracelet #15,Bracelets,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,92340.0,0.0,92340.0,UPI,Online
+TXN5708,2024-02-12 00:00:00,2024-02,2024,C2065,Pallavi Ratti,Jaipur,Gold,P1018,Platinum Ring #18,Rings,Platinum,S101,Aurelia Jewels - Surat,Surat,1,216340.0,0.0,216340.0,Cash,In-Store
+TXN5583,2024-06-08 00:00:00,2024-06,2024,C2050,George Wason,Jaipur,,P1017,Platinum Necklace #17,Necklaces,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,173020.0,15.0,294134.0,Cash,In-Store
+TXN5429,2023-02-09 00:00:00,2023-02,2023,C2052,Nisha Arora,Hyderabad,Silver,P1022,Diamond Pendant #22,Pendants,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,65510.0,15.0,167050.5,Debit Card,In-Store
+TXN5200,2023-10-23 00:00:00,2023-10,2023,C2047,Mason Gala,Pune,,P1008,Platinum Earring #8,Earrings,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,4870.0,0.0,9740.0,Cash,In-Store
+TXN5013,2024-05-29 00:00:00,2024-05,2024,C2014,Rajata Loyal,Kolkata,Gold,P1012,Gold Necklace #12,Necklaces,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,238700.0,0.0,238700.0,UPI,In-Store
+TXN5046,2024-08-03 00:00:00,2024-08,2024,C2011,William Maharaj,Lucknow,,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,1,142420.0,15.0,121057.0,Net Banking,In-Store
+TXN5226,2023-05-23 00:00:00,2023-05,2023,C2001,Kritika Brar,Chennai,Silver,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,115430.0,0.0,115430.0,Debit Card,In-Store
+TXN5787,2023-08-04 00:00:00,2023-08,2023,C2131,Garima Sama,Hyderabad,Silver,P1024,Gold Bracelet #24,Bracelets,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,129150.0,0.0,258300.0,Credit Card,In-Store
+TXN5283,2024-05-26 00:00:00,2024-05,2024,C2119,Lajita Munshi,Jaipur,,P1060,Diamond Pendant #60,Pendants,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,5060.0,10.0,4554.0,EMI,In-Store
+TXN5394,2025-07-24 00:00:00,2025-07,2025,C2069,Tanveer Narang,Jaipur,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,191690.0,5.0,364211.0,UPI,In-Store
+TXN5096,2023-12-24 00:00:00,2023-12,2023,C2055,Xavier Verma,Chennai,Silver,P1043,Rose Gold Ring #43,Rings,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,3,92760.0,0.0,278280.0,Net Banking,Online
+TXN5202,2023-02-26 00:00:00,2023-02,2023,C2090,Qarin Verma,Lucknow,,P1003,Platinum Bangle #3,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,168080.0,15.0,142868.0,UPI,Online
+TXN5704,2025-05-08 00:00:00,2025-05,2025,C2082,Chakradev Misra,Kolkata,Gold,P1034,Platinum Pendant #34,Pendants,Platinum,S102,Aurelia Jewels - Chennai,Chennai,2,239020.0,15.0,406334.0,EMI,In-Store
+TXN5936,2023-03-18 00:00:00,2023-03,2023,UNKNOWN,,,,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,142170.0,5.0,135061.5,EMI,In-Store
+TXN5274,2025-03-03 00:00:00,2025-03,2025,C2036,Ria Raju,Jaipur,,P1022,Diamond Pendant #22,Pendants,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,163660.0,10.0,147294.0,EMI,In-Store
+TXN5339,2023-08-30 00:00:00,2023-08,2023,C2117,Umang Doshi,Lucknow,Silver,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,147390.0,0.0,442170.0,Credit Card,Online
+TXN5762,2025-01-27 00:00:00,2025-01,2025,C2063,Faras Deo,Bengaluru,Silver,P1015,Platinum Bracelet #15,Bracelets,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,13900.0,15.0,11815.0,Credit Card,Online
+TXN5747,2023-01-04 00:00:00,2023-01,2023,C2086,Widisha Badami,Lucknow,,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,172100.0,0.0,172100.0,Cash,Online
+TXN5580,2025-07-14 00:00:00,2025-07,2025,C2147,Rajata Kuruvilla,Jaipur,,P1041,Platinum Earring #41,Earrings,Platinum,S101,Aurelia Jewels - Surat,Surat,1,244080.0,0.0,244080.0,Net Banking,Online
+TXN5826,2024-12-24 00:00:00,2024-12,2024,C2017,Vincent Mani,Pune,Gold,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,238860.0,15.0,203031.0,EMI,In-Store
+TXN5527,2023-10-04 00:00:00,2023-10,2023,C2064,Yug Malhotra,Kolkata,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,4340.0,10.0,3906.0,UPI,In-Store
+TXN5500,2025-05-06 00:00:00,2025-05,2025,C2143,Bishakha Gulati,Kolkata,Silver,P1018,Platinum Ring #18,Rings,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,46000.0,0.0,46000.0,Debit Card,In-Store
+TXN5449,2023-06-27 00:00:00,2023-06,2023,C2103,Warjas Luthra,Jaipur,Gold,P1042,Gold Earring #42,Earrings,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,99740.0,0.0,99740.0,EMI,In-Store
+TXN5127,2023-06-14 00:00:00,2023-06,2023,C2002,Alka Dewan,Delhi,Gold,P1052,Diamond Anklet #52,Anklets,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,120030.0,0.0,120030.0,Credit Card,Online
+TXN5876,2025-05-18 00:00:00,2025-05,2025,C2059,Ijaya Pandey,Coimbatore,Silver,P1011,Gold Bracelet #11,Bracelets,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,151980.0,15.0,258366.0,Debit Card,In-Store
+TXN5729,2023-09-25 00:00:00,2023-09,2023,C2046,Advika Rajagopal,Ahmedabad,Silver,P1011,Gold Bracelet #11,Bracelets,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,118370.0,0.0,118370.0,EMI,Online
+TXN5292,2023-01-30 00:00:00,2023-01,2023,C2071,Ayushman Mand,Mumbai,Silver,P1032,Gold Anklet #32,Anklets,Gold,S102,Aurelia Jewels - Chennai,Chennai,3,146940.0,15.0,374697.0,EMI,Online
+TXN5637,2025-04-21 00:00:00,2025-04,2025,C2065,Pallavi Ratti,Jaipur,Gold,P1025,Diamond Earring #25,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,218620.0,15.0,185827.0,Credit Card,In-Store
+TXN5356,2023-12-30 00:00:00,2023-12,2023,C2011,William Maharaj,Lucknow,,P1006,Diamond Earring #6,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,1,186170.0,5.0,176861.5,Cash,Online
+TXN5758,2025-01-08 00:00:00,2025-01,2025,C2134,Neel Borah,Delhi,,P1026,Silver Necklace #26,Necklaces,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,243210.0,10.0,218889.0,Net Banking,In-Store
+TXN5628,2024-04-14 00:00:00,2024-04,2024,C2003,Neel Zacharia,Surat,Platinum,P1011,Gold Bracelet #11,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,89810.0,0.0,179620.0,Net Banking,Online
+TXN5343,2024-03-19 00:00:00,2024-03,2024,C2067,Nandini Biswas,Kolkata,Silver,P1008,Platinum Earring #8,Earrings,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,244720.0,15.0,208012.0,EMI,In-Store
+TXN5460,2023-12-08 00:00:00,2023-12,2023,C2122,Ekansh Sane,Mumbai,Gold,P1013,Diamond Earring #13,Earrings,,S103,Aurelia Jewels - Jaipur,Jaipur,2,5030.0,10.0,9054.0,Cash,In-Store
+TXN5839,2024-06-24 00:00:00,2024-06,2024,C2049,Eiravati Nagi,Lucknow,Silver,P1006,Diamond Earring #6,Earrings,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,223450.0,5.0,424555.0,EMI,Online
+TXN5646,2025-03-09 00:00:00,2025-03,2025,C2075,Vrinda Lanka,Hyderabad,Silver,P1056,Diamond Bangle #56,Bangles,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,82440.0,0.0,164880.0,Credit Card,In-Store
+TXN5924,2024-09-20 00:00:00,2024-09,2024,C2025,Owen Choudhary,Delhi,Silver,P1001,Gold Ring #1,Rings,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,234140.0,5.0,222433.0,Cash,In-Store
+TXN5522,2024-06-30 00:00:00,2024-06,2024,C2040,Maanas Munshi,Mumbai,Gold,P1003,Platinum Bangle #3,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,106880.0,10.0,192384.0,UPI,Online
+TXN5026,2023-05-21 00:00:00,2023-05,2023,C2052,Nisha Arora,Hyderabad,Silver,P1042,Gold Earring #42,Earrings,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,247390.0,10.0,222651.0,Cash,In-Store
+TXN5277,2023-03-20 00:00:00,2023-03,2023,C2043,Max Sachar,Ahmedabad,Silver,P1018,Platinum Ring #18,Rings,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,126100.0,0.0,126100.0,UPI,Online
+TXN5576,2024-12-25 00:00:00,2024-12,2024,C2021,Guneet Chaudhry,Pune,,P1037,Platinum Bracelet #37,Bracelets,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,186620.0,0.0,186620.0,EMI,Online
+TXN5688,2025-03-22 00:00:00,2025-03,2025,C2050,George Wason,Jaipur,,P1054,Silver Bangle #54,Bangles,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,3,108590.0,15.0,276904.5,UPI,Online
+TXN5686,2023-02-13 00:00:00,2023-02,2023,C2073,Watika Dhaliwal,Mumbai,Silver,P1020,Silver Ring #20,Rings,Silver,S101,Aurelia Jewels - Surat,Surat,2,159360.0,0.0,318720.0,UPI,Online
+TXN5170,2023-07-14 00:00:00,2023-07,2023,C2136,Amol Bansal,Jaipur,Silver,P1043,Rose Gold Ring #43,Rings,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,141370.0,0.0,141370.0,EMI,In-Store
+TXN5519,2024-03-17 00:00:00,2024-03,2024,C2065,Pallavi Ratti,Jaipur,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,86230.0,0.0,258690.0,EMI,In-Store
+TXN5199,2023-02-14 00:00:00,2023-02,2023,C2086,Widisha Badami,Lucknow,,P1037,Platinum Bracelet #37,Bracelets,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,217730.0,0.0,217730.0,Cash,In-Store
+TXN5070,2024-12-18 00:00:00,2024-12,2024,C2109,Brijesh Soman,Delhi,Silver,P1054,Silver Bangle #54,Bangles,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,73550.0,0.0,73550.0,Debit Card,In-Store
+TXN5042,2025-07-05 00:00:00,2025-07,2025,C2146,Vaishnavi Vohra,Ahmedabad,,P1004,Silver Necklace #4,Necklaces,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,25080.0,0.0,25080.0,Net Banking,Online
+TXN5489,2024-10-09 00:00:00,2024-10,2024,C2115,Dalaja Gara,Lucknow,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S101,Aurelia Jewels - Surat,Surat,1,32690.0,10.0,29421.0,Credit Card,In-Store
+TXN5565,2023-06-04 00:00:00,2023-06,2023,C2038,Jairaj Iyer,Hyderabad,Gold,P1032,Gold Anklet #32,Anklets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,198840.0,15.0,169014.0,Net Banking,In-Store
+TXN5525,2023-07-08 00:00:00,2023-07,2023,C2041,Bhavika Yadav,Chennai,Silver,P1037,Platinum Bracelet #37,Bracelets,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,220270.0,0.0,220270.0,Net Banking,In-Store
+TXN5364,2023-04-30 00:00:00,2023-04,2023,C2089,Omaja Munshi,Ahmedabad,,P1029,Silver Bangle #29,Bangles,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,43690.0,0.0,43690.0,UPI,Online
+TXN5302,2025-01-02 00:00:00,2025-01,2025,C2073,Watika Dhaliwal,Mumbai,Silver,P1011,Gold Bracelet #11,Bracelets,Gold,S101,Aurelia Jewels - Surat,Surat,1,231360.0,0.0,231360.0,UPI,Online
+TXN5613,2023-05-06 00:00:00,2023-05,2023,C2118,Max Guha,Kolkata,Silver,P1037,Platinum Bracelet #37,Bracelets,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,2,31110.0,5.0,59109.0,Cash,Online
+TXN5934,2025-02-10 00:00:00,2025-02,2025,C2093,Elijah Mannan,Bengaluru,,P1006,Diamond Earring #6,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,103970.0,0.0,207940.0,UPI,Online
+TXN5444,2024-03-24 00:00:00,2024-03,2024,C2122,Ekansh Sane,Mumbai,Gold,P1053,Diamond Earring #53,Earrings,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,45960.0,0.0,45960.0,Debit Card,Online
+TXN5396,2023-01-02 00:00:00,2023-01,2023,C2075,Vrinda Lanka,Hyderabad,Silver,P1042,Gold Earring #42,Earrings,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,18800.0,15.0,15980.0,Net Banking,In-Store
+TXN5696,2023-10-31 00:00:00,2023-10,2023,C2113,Lakshit Lanka,Surat,Silver,P1019,Diamond Bangle #19,Bangles,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,3,155310.0,5.0,442633.5,Debit Card,Online
+TXN5359,2023-11-07 00:00:00,2023-11,2023,C2093,Elijah Mannan,Bengaluru,,P1045,Platinum Bangle #45,Bangles,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,25560.0,10.0,46008.0,Credit Card,Online
+TXN5055,2025-07-05 00:00:00,2025-07,2025,C2090,Qarin Verma,Lucknow,,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,118810.0,0.0,237620.0,Net Banking,Online
+TXN5384,2024-01-19 00:00:00,2024-01,2024,C2076,Oliver Kakar,Lucknow,Gold,P1032,Gold Anklet #32,Anklets,Gold,S101,Aurelia Jewels - Surat,Surat,1,38970.0,0.0,38970.0,UPI,Online
+TXN5303,2023-04-20 00:00:00,2023-04,2023,C2091,Oliver Yogi,Mumbai,Silver,P1025,Diamond Earring #25,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,130510.0,10.0,234918.0,Credit Card,Online
+TXN5814,2024-11-16 00:00:00,2024-11,2024,C2056,Eiravati Manne,Kolkata,Gold,P1037,Platinum Bracelet #37,Bracelets,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,159110.0,15.0,135243.5,Cash,In-Store
+TXN5766,2024-10-22 00:00:00,2024-10,2024,C2068,Kashish Shanker,Kolkata,Gold,P1056,Diamond Bangle #56,Bangles,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,71720.0,15.0,182886.0,EMI,Online
+TXN5774,2023-10-14 00:00:00,2023-10,2023,UNKNOWN,,,,P1025,Diamond Earring #25,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,1,17800.0,10.0,16020.0,Cash,Online
+TXN5053,2023-10-19 00:00:00,2023-10,2023,C2099,Lakshit Dani,Chennai,,P1004,Silver Necklace #4,Necklaces,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,2,214850.0,10.0,386730.0,UPI,In-Store
+TXN5426,2025-06-29 00:00:00,2025-06,2025,C2148,Vedhika Sabharwal,Ahmedabad,Silver,P1011,Gold Bracelet #11,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,139440.0,0.0,278880.0,UPI,In-Store
+TXN5134,2024-01-27 00:00:00,2024-01,2024,C2057,Ojas Basu,Coimbatore,Gold,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,105460.0,0.0,316380.0,EMI,Online
+TXN5475,2023-03-31 00:00:00,2023-03,2023,C2142,Umang Nagi,Lucknow,Gold,P1056,Diamond Bangle #56,Bangles,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,224520.0,0.0,224520.0,EMI,Online
+TXN5210,2024-04-16 00:00:00,2024-04,2024,C2086,Widisha Badami,Lucknow,,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,209440.0,10.0,188496.0,Net Banking,Online
+TXN5748,2023-05-22 00:00:00,2023-05,2023,C2130,Leena Pant,Chennai,Silver,P1006,Diamond Earring #6,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,83950.0,0.0,83950.0,EMI,In-Store
+TXN5409,2023-12-15 00:00:00,2023-12,2023,C2086,Widisha Badami,Lucknow,,P1034,Platinum Pendant #34,Pendants,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,194830.0,0.0,194830.0,EMI,Online
+TXN5718,2024-04-23 00:00:00,2024-04,2024,C2009,Chaitanya Sarin,Ahmedabad,Silver,P1060,Diamond Pendant #60,Pendants,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,120900.0,10.0,108810.0,UPI,In-Store
+TXN5259,2024-12-11 00:00:00,2024-12,2024,C2033,Triya Manda,Delhi,,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,2,132680.0,5.0,252092.0,Net Banking,Online
+TXN5450,2023-03-10 00:00:00,2023-03,2023,C2106,Krishna Zacharia,Bengaluru,Platinum,P1020,Silver Ring #20,Rings,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,179280.0,5.0,170316.0,UPI,In-Store
+TXN5233,2023-04-26 00:00:00,2023-04,2023,C2125,Guneet Varty,Ahmedabad,Platinum,P1021,Silver Bracelet #21,Bracelets,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,183630.0,15.0,156085.5,Cash,Online
+TXN5931,2023-02-10 00:00:00,2023-02,2023,C2052,Nisha Arora,Hyderabad,Silver,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,187670.0,10.0,168903.0,Credit Card,Online
+TXN5847,2023-02-06 00:00:00,2023-02,2023,C2124,Garima Pandya,Hyderabad,Gold,P1007,Silver Anklet #7,Anklets,Silver,S102,Aurelia Jewels - Chennai,Chennai,2,13360.0,0.0,26720.0,EMI,Online
+TXN5251,2024-11-07 00:00:00,2024-11,2024,C2077,Orinder Majumdar,Bengaluru,,P1045,Platinum Bangle #45,Bangles,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,159130.0,0.0,159130.0,EMI,Online
+TXN5406,2023-05-05 00:00:00,2023-05,2023,C2134,Neel Borah,Delhi,,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,131250.0,10.0,354375.0,Credit Card,In-Store
+TXN5665,2023-11-18 00:00:00,2023-11,2023,C2021,Guneet Chaudhry,Pune,,P1027,Diamond Anklet #27,Anklets,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,145700.0,10.0,131130.0,Debit Card,Online
+TXN5144,2024-01-04 00:00:00,2024-01,2024,C2144,Kala Gour,Kolkata,Silver,P1060,Diamond Pendant #60,Pendants,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,3,8880.0,10.0,23976.0,Net Banking,In-Store
+TXN5605,2025-06-19 00:00:00,2025-06,2025,C2069,Tanveer Narang,Jaipur,Silver,P1032,Gold Anklet #32,Anklets,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,197290.0,15.0,167696.5,EMI,Online
+TXN5461,2025-01-30 00:00:00,2025-01,2025,C2099,Lakshit Dani,Chennai,,P1032,Gold Anklet #32,Anklets,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,104560.0,0.0,104560.0,Cash,Online
+TXN5151,2025-07-19 00:00:00,2025-07,2025,C2125,Guneet Varty,Ahmedabad,Platinum,P1035,Rose Gold Bracelet #35,Bracelets,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,112700.0,15.0,95795.0,Debit Card,Online
+TXN5446,2023-11-12 00:00:00,2023-11,2023,C2014,Rajata Loyal,Kolkata,Gold,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S101,Aurelia Jewels - Surat,Surat,1,194010.0,10.0,174609.0,UPI,Online
+TXN5221,2024-04-26 00:00:00,2024-04,2024,C2058,Ishwar Bajaj,Bengaluru,Silver,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,3,100450.0,10.0,271215.0,UPI,In-Store
+TXN5204,2025-07-08 00:00:00,2025-07,2025,C2018,Zilmil Sathe,Surat,Gold,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,76040.0,15.0,64634.0,UPI,In-Store
+TXN5499,2024-01-22 00:00:00,2024-01,2024,C2097,Qabil Vaidya,Kolkata,,P1006,Diamond Earring #6,Earrings,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,47230.0,15.0,40145.5,Net Banking,Online
+TXN5323,2024-10-11 00:00:00,2024-10,2024,C2106,Krishna Zacharia,Bengaluru,Platinum,P1018,Platinum Ring #18,Rings,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,67090.0,0.0,67090.0,Debit Card,Online
+TXN5911,2023-08-29 00:00:00,2023-08,2023,C2116,Chatresh Shroff,Coimbatore,Silver,P1052,Diamond Anklet #52,Anklets,Diamond,S101,Aurelia Jewels - Surat,Surat,1,218890.0,0.0,218890.0,Net Banking,Online
+TXN5307,2023-12-13 00:00:00,2023-12,2023,UNKNOWN,,,,P1055,Silver Bracelet #55,Bracelets,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,61290.0,0.0,61290.0,UPI,In-Store
+TXN5385,2024-05-15 00:00:00,2024-05,2024,C2032,Joshua Vyas,Jaipur,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,218120.0,15.0,185402.0,Net Banking,In-Store
+TXN5392,2023-12-04 00:00:00,2023-12,2023,C2037,Leela Bali,Delhi,Silver,P1027,Diamond Anklet #27,Anklets,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,2,96380.0,0.0,192760.0,Credit Card,Online
+TXN5423,2023-12-02 00:00:00,2023-12,2023,C2014,Rajata Loyal,Kolkata,Gold,P1041,Platinum Earring #41,Earrings,Platinum,S105,Aurelia Jewels - Mumbai,Mumbai,1,213470.0,0.0,213470.0,Debit Card,In-Store
+TXN5119,2023-08-10 00:00:00,2023-08,2023,C2122,Ekansh Sane,Mumbai,Gold,P1056,Diamond Bangle #56,Bangles,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,57960.0,5.0,55062.0,Net Banking,In-Store
+TXN5306,2024-05-18 00:00:00,2024-05,2024,C2027,Yashica Kala,Delhi,Silver,P1026,Silver Necklace #26,Necklaces,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,33330.0,0.0,33330.0,EMI,Online
+TXN5778,2024-02-25 00:00:00,2024-02,2024,C2102,Jagdish Brar,Lucknow,Gold,P1052,Diamond Anklet #52,Anklets,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,208590.0,10.0,187731.0,Credit Card,Online
+TXN5914,2023-03-30 00:00:00,2023-03,2023,C2065,Pallavi Ratti,Jaipur,Gold,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,3,231480.0,0.0,694440.0,Net Banking,Online
+TXN5076,2024-10-26 00:00:00,2024-10,2024,C2029,Mekhala Basak,Jaipur,Platinum,P1009,Silver Ring #9,Rings,Silver,S101,Aurelia Jewels - Surat,Surat,1,29510.0,0.0,29510.0,Net Banking,Online
+TXN5212,2025-08-02 00:00:00,2025-08,2025,C2081,Tanvi Dhar,Pune,,P1046,Rose Gold Ring #46,Rings,Rose Gold,S101,Aurelia Jewels - Surat,Surat,2,105810.0,10.0,190458.0,UPI,In-Store
+TXN5868,2024-12-18 00:00:00,2024-12,2024,C2068,Kashish Shanker,Kolkata,Gold,P1029,Silver Bangle #29,Bangles,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,13950.0,0.0,41850.0,EMI,In-Store
+TXN5130,2023-01-01 00:00:00,2023-01,2023,C2023,Chakrika Nigam,Ahmedabad,,P1018,Platinum Ring #18,Rings,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,168740.0,10.0,455598.0,Net Banking,Online
+TXN5945,2023-11-17 00:00:00,2023-11,2023,C2036,Ria Raju,Jaipur,,P1012,Gold Necklace #12,Necklaces,Gold,S102,Aurelia Jewels - Chennai,Chennai,3,190990.0,0.0,572970.0,Credit Card,Online
+TXN5418,2023-09-02 00:00:00,2023-09,2023,C2085,Chakradhar Bhatnagar,Kolkata,Gold,P1052,Diamond Anklet #52,Anklets,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,102480.0,0.0,204960.0,UPI,Online
+TXN5949,2023-08-15 00:00:00,2023-08,2023,C2119,Lajita Munshi,Jaipur,,P1040,Silver Nose Pin #40,Nose Pins,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,229740.0,0.0,229740.0,Debit Card,In-Store
+TXN5258,2024-10-09 00:00:00,2024-10,2024,C2097,Qabil Vaidya,Kolkata,,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,220390.0,0.0,220390.0,Debit Card,In-Store
+TXN5736,2023-12-20 00:00:00,2023-12,2023,C2063,Faras Deo,Bengaluru,Silver,P1059,Rose Gold Pendant #59,Pendants,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,22830.0,5.0,21688.5,Net Banking,In-Store
+TXN5363,2024-06-09 00:00:00,2024-06,2024,C2126,Lohit Mander,Ahmedabad,Gold,P1015,Platinum Bracelet #15,Bracelets,Platinum,S101,Aurelia Jewels - Surat,Surat,1,107810.0,0.0,107810.0,UPI,In-Store
+TXN5533,2024-10-04 00:00:00,2024-10,2024,C2004,Veer Bir,Jaipur,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S101,Aurelia Jewels - Surat,Surat,1,137420.0,0.0,137420.0,Debit Card,In-Store
+TXN5663,2024-12-10 00:00:00,2024-12,2024,C2115,Dalaja Gara,Lucknow,Gold,P1047,Silver Pendant #47,Pendants,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,23600.0,0.0,70800.0,UPI,In-Store
+TXN5478,2025-07-21 00:00:00,2025-07,2025,C2098,Krish Kumar,Coimbatore,Platinum,P1042,Gold Earring #42,Earrings,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,58990.0,0.0,117980.0,Credit Card,In-Store
+TXN5852,2024-07-30 00:00:00,2024-07,2024,C2100,Balendra Parsa,Hyderabad,Silver,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,191500.0,0.0,383000.0,Credit Card,In-Store
+TXN5926,2023-04-23 00:00:00,2023-04,2023,C2040,Maanas Munshi,Mumbai,Gold,P1021,Silver Bracelet #21,Bracelets,Silver,S102,Aurelia Jewels - Chennai,Chennai,2,122610.0,0.0,245220.0,EMI,In-Store
+TXN5744,2024-03-01 00:00:00,2024-03,2024,C2073,Watika Dhaliwal,Mumbai,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,96320.0,0.0,192640.0,Net Banking,Online
+TXN5555,2024-10-04 00:00:00,2024-10,2024,C2044,Bina Basak,Lucknow,Gold,P1060,Diamond Pendant #60,Pendants,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,1,20770.0,10.0,18693.0,Credit Card,Online
+TXN5564,2024-12-10 00:00:00,2024-12,2024,C2100,Balendra Parsa,Hyderabad,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,2,23140.0,5.0,43966.0,UPI,In-Store
+TXN5694,2023-11-26 00:00:00,2023-11,2023,C2125,Guneet Varty,Ahmedabad,Platinum,P1033,Gold Pendant #33,Pendants,Gold,S102,Aurelia Jewels - Chennai,Chennai,1,108720.0,5.0,103284.0,Credit Card,Online
+TXN5502,2023-07-07 00:00:00,2023-07,2023,C2091,Oliver Yogi,Mumbai,Silver,P1052,Diamond Anklet #52,Anklets,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,71850.0,10.0,129330.0,UPI,Online
+TXN5542,2023-07-28 00:00:00,2023-07,2023,C2093,Elijah Mannan,Bengaluru,,P1036,Diamond Necklace #36,Necklaces,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,230540.0,10.0,207486.0,UPI,In-Store
+TXN5472,2025-01-12 00:00:00,2025-01,2025,C2007,Samar Lalla,Surat,Silver,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S102,Aurelia Jewels - Chennai,Chennai,2,237960.0,10.0,428328.0,UPI,In-Store
+TXN5295,2025-04-26 00:00:00,2025-04,2025,C2078,Oscar Hans,Jaipur,Silver,P1018,Platinum Ring #18,Rings,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,135470.0,5.0,128696.5,Credit Card,In-Store
+TXN5001,2024-10-18 00:00:00,2024-10,2024,C2037,Leela Bali,Delhi,Silver,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,112260.0,5.0,106647.0,Cash,In-Store
+TXN5140,2024-07-15 00:00:00,2024-07,2024,C2061,Liam Jhaveri,Coimbatore,Silver,P1018,Platinum Ring #18,Rings,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,94020.0,10.0,253854.0,Cash,In-Store
+TXN5929,2023-04-02 00:00:00,2023-04,2023,C2113,Lakshit Lanka,Surat,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,20030.0,10.0,18027.0,Cash,Online
+TXN5816,2025-06-03 00:00:00,2025-06,2025,C2083,Osha Chaudhuri,Lucknow,Silver,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,196120.0,0.0,588360.0,Credit Card,In-Store
+TXN5621,2024-04-18 00:00:00,2024-04,2024,C2119,Lajita Munshi,Jaipur,,P1054,Silver Bangle #54,Bangles,Silver,S101,Aurelia Jewels - Surat,Surat,1,17450.0,0.0,17450.0,UPI,Online
+TXN5656,2023-05-31 00:00:00,2023-05,2023,C2013,Udyati Kunda,Pune,Gold,P1015,Platinum Bracelet #15,Bracelets,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,49330.0,0.0,49330.0,Net Banking,Online
+TXN5166,2024-11-30 00:00:00,2024-11,2024,C2143,Bishakha Gulati,Kolkata,Silver,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,3,104810.0,0.0,314430.0,Net Banking,Online
+TXN5919,2024-07-08 00:00:00,2024-07,2024,C2025,Owen Choudhary,Delhi,Silver,P1006,Diamond Earring #6,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,7990.0,10.0,7191.0,Debit Card,Online
+TXN5903,2023-04-20 00:00:00,2023-04,2023,C2053,Victor Kakar,Chennai,Silver,P1013,Diamond Earring #13,Earrings,,S105,Aurelia Jewels - Mumbai,Mumbai,2,222120.0,10.0,399816.0,Cash,Online
+TXN5180,2025-03-06 00:00:00,2025-03,2025,C2083,Osha Chaudhuri,Lucknow,Silver,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,169250.0,10.0,152325.0,Debit Card,In-Store
+TXN5466,2023-01-07 00:00:00,2023-01,2023,C2127,Ganga Nair,Chennai,Gold,P1001,Gold Ring #1,Rings,Gold,S102,Aurelia Jewels - Chennai,Chennai,1,194340.0,0.0,194340.0,EMI,In-Store
+TXN5808,2023-05-08 00:00:00,2023-05,2023,C2118,Max Guha,Kolkata,Silver,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,3,219310.0,0.0,657930.0,Cash,Online
+TXN5927,2023-11-06 00:00:00,2023-11,2023,C2058,Ishwar Bajaj,Bengaluru,Silver,P1022,Diamond Pendant #22,Pendants,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,179600.0,0.0,359200.0,Credit Card,Online
+TXN5845,2023-04-28 00:00:00,2023-04,2023,C2041,Bhavika Yadav,Chennai,Silver,P1058,Silver Bangle #58,Bangles,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,49110.0,15.0,41743.5,EMI,In-Store
+TXN5588,2024-09-08 00:00:00,2024-09,2024,C2136,Amol Bansal,Jaipur,Silver,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,180200.0,0.0,360400.0,Net Banking,In-Store
+TXN5377,2023-11-16 00:00:00,2023-11,2023,C2088,Sai Kadakia,Surat,,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,10860.0,15.0,9231.0,Debit Card,In-Store
+TXN5624,2023-01-26 00:00:00,2023-01,2023,C2115,Dalaja Gara,Lucknow,Gold,P1026,Silver Necklace #26,Necklaces,Silver,S101,Aurelia Jewels - Surat,Surat,1,77780.0,5.0,73891.0,Debit Card,In-Store
+TXN5248,2025-07-07 00:00:00,2025-07,2025,C2039,Farhan Krishna,Delhi,Silver,P1042,Gold Earring #42,Earrings,Gold,S101,Aurelia Jewels - Surat,Surat,1,167490.0,10.0,150741.0,Cash,Online
+TXN5136,2023-08-29 00:00:00,2023-08,2023,C2062,Dev Warrior,Pune,Silver,P1056,Diamond Bangle #56,Bangles,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,2,60390.0,10.0,108702.0,Debit Card,Online
+TXN5160,2023-11-02 00:00:00,2023-11,2023,C2093,Elijah Mannan,Bengaluru,,P1057,Rose Gold Bangle #57,Bangles,Rose Gold,S101,Aurelia Jewels - Surat,Surat,2,243430.0,0.0,486860.0,UPI,Online
+TXN5912,2023-04-01 00:00:00,2023-04,2023,C2095,Theodore Sura,Surat,Silver,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,95820.0,5.0,91029.0,UPI,In-Store
+TXN5865,2024-04-03 00:00:00,2024-04,2024,C2127,Ganga Nair,Chennai,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,3,247000.0,0.0,741000.0,Debit Card,In-Store
+TXN5823,2025-02-04 00:00:00,2025-02,2025,C2112,Nakul Walla,Surat,Silver,P1024,Gold Bracelet #24,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,82760.0,5.0,157244.0,UPI,Online
+TXN5139,2024-12-16 00:00:00,2024-12,2024,C2119,Lajita Munshi,Jaipur,,P1021,Silver Bracelet #21,Bracelets,Silver,S101,Aurelia Jewels - Surat,Surat,1,169830.0,0.0,169830.0,UPI,In-Store
+TXN5404,2024-07-19 00:00:00,2024-07,2024,C2146,Vaishnavi Vohra,Ahmedabad,,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,148690.0,5.0,141255.5,UPI,Online
+TXN5059,2025-05-10 00:00:00,2025-05,2025,C2144,Kala Gour,Kolkata,Silver,P1012,Gold Necklace #12,Necklaces,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,119810.0,5.0,113819.5,EMI,Online
+TXN5513,2025-03-22 00:00:00,2025-03,2025,C2033,Triya Manda,Delhi,,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,192780.0,10.0,173502.0,Cash,Online
+TXN5946,2023-04-09 00:00:00,2023-04,2023,C2110,Mohammed Sengupta,Pune,,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S101,Aurelia Jewels - Surat,Surat,1,6420.0,15.0,5457.0,UPI,Online
+TXN5526,2023-10-31 00:00:00,2023-10,2023,C2069,Tanveer Narang,Jaipur,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,59090.0,15.0,50226.5,Credit Card,In-Store
+TXN5176,2025-04-07 00:00:00,2025-04,2025,C2098,Krish Kumar,Coimbatore,Platinum,P1006,Diamond Earring #6,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,3,89590.0,0.0,268770.0,Credit Card,Online
+TXN5334,2024-12-31 00:00:00,2024-12,2024,C2034,Liam Singh,Bengaluru,Gold,P1055,Silver Bracelet #55,Bracelets,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,115070.0,5.0,327949.5,UPI,In-Store
+TXN5009,2024-12-19 00:00:00,2024-12,2024,C2042,Manthan Varma,Mumbai,Gold,P1032,Gold Anklet #32,Anklets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,45070.0,15.0,76619.0,EMI,Online
+TXN5192,2024-01-03 00:00:00,2024-01,2024,C2124,Garima Pandya,Hyderabad,Gold,P1009,Silver Ring #9,Rings,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,49260.0,0.0,147780.0,Debit Card,Online
+TXN5810,2023-02-28 00:00:00,2023-02,2023,C2027,Yashica Kala,Delhi,Silver,P1056,Diamond Bangle #56,Bangles,Diamond,S105,Aurelia Jewels - Mumbai,Mumbai,2,226560.0,10.0,407808.0,Cash,In-Store
+TXN5157,2025-03-15 00:00:00,2025-03,2025,C2096,Siddharth Doctor,Lucknow,,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S101,Aurelia Jewels - Surat,Surat,3,23730.0,5.0,67630.5,Credit Card,In-Store
+TXN5811,2023-03-27 00:00:00,2023-03,2023,C2026,Lakshmi Wali,Coimbatore,Gold,P1046,Rose Gold Ring #46,Rings,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,148100.0,0.0,296200.0,EMI,Online
+TXN5378,2025-01-19 00:00:00,2025-01,2025,C2096,Siddharth Doctor,Lucknow,,P1017,Platinum Necklace #17,Necklaces,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,15740.0,0.0,15740.0,Cash,Online
+TXN5474,2024-09-19 00:00:00,2024-09,2024,C2090,Qarin Verma,Lucknow,,P1028,Gold Nose Pin #28,Nose Pins,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,184630.0,10.0,166167.0,EMI,Online
+TXN5128,2023-02-08 00:00:00,2023-02,2023,C2099,Lakshit Dani,Chennai,,P1060,Diamond Pendant #60,Pendants,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,179060.0,5.0,340214.0,EMI,In-Store
+TXN5547,2024-03-09 00:00:00,2024-03,2024,C2070,Megha Taneja,Surat,,P1006,Diamond Earring #6,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,186810.0,0.0,186810.0,Debit Card,Online
+TXN5184,2023-10-18 00:00:00,2023-10,2023,C2070,Megha Taneja,Surat,,P1004,Silver Necklace #4,Necklaces,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,20380.0,10.0,18342.0,Credit Card,In-Store
+TXN5831,2023-08-21 00:00:00,2023-08,2023,C2021,Guneet Chaudhry,Pune,,P1022,Diamond Pendant #22,Pendants,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,132870.0,0.0,132870.0,Net Banking,In-Store
+TXN5104,2024-09-02 00:00:00,2024-09,2024,C2139,Oni Issac,Mumbai,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S102,Aurelia Jewels - Chennai,Chennai,2,55670.0,10.0,100206.0,Debit Card,Online
+TXN5079,2024-11-23 00:00:00,2024-11,2024,C2099,Lakshit Dani,Chennai,,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,162280.0,0.0,162280.0,Cash,Online
+TXN5730,2024-08-11 00:00:00,2024-08,2024,C2099,Lakshit Dani,Chennai,,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,123590.0,0.0,123590.0,Cash,In-Store
+TXN5618,2024-07-21 00:00:00,2024-07,2024,C2078,Oscar Hans,Jaipur,Silver,P1020,Silver Ring #20,Rings,Silver,S102,Aurelia Jewels - Chennai,Chennai,2,143400.0,5.0,272460.0,Cash,Online
+TXN5018,2024-08-29 00:00:00,2024-08,2024,C2016,Ishaan Bhattacharyya,Hyderabad,,P1028,Gold Nose Pin #28,Nose Pins,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,75750.0,0.0,151500.0,EMI,In-Store
+TXN5242,2025-01-21 00:00:00,2025-01,2025,UNKNOWN,,,,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,170720.0,10.0,460944.0,Net Banking,Online
+TXN5172,2024-02-27 00:00:00,2024-02,2024,C2112,Nakul Walla,Surat,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,2,142530.0,15.0,242301.0,UPI,In-Store
+TXN5434,2024-01-26 00:00:00,2024-01,2024,C2101,Yagnesh Nori,Chennai,,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,120800.0,0.0,241600.0,EMI,Online
+TXN5562,2024-10-12 00:00:00,2024-10,2024,C2022,Rushil Rajagopalan,Hyderabad,Platinum,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,103650.0,0.0,207300.0,Cash,Online
+TXN5296,2025-03-08 00:00:00,2025-03,2025,C2106,Krishna Zacharia,Bengaluru,Platinum,P1022,Diamond Pendant #22,Pendants,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,57600.0,10.0,51840.0,Net Banking,In-Store
+TXN5181,2025-02-27 00:00:00,2025-02,2025,C2044,Bina Basak,Lucknow,Gold,P1023,Gold Necklace #23,Necklaces,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,112350.0,10.0,101115.0,Debit Card,Online
+TXN5802,2023-12-29 00:00:00,2023-12,2023,UNKNOWN,,,,P1050,Diamond Nose Pin #50,Nose Pins,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,200860.0,10.0,180774.0,EMI,In-Store
+TXN5671,2024-08-11 00:00:00,2024-08,2024,C2081,Tanvi Dhar,Pune,,P1007,Silver Anklet #7,Anklets,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,2,44740.0,0.0,89480.0,Cash,Online
+TXN5587,2025-03-09 00:00:00,2025-03,2025,C2032,Joshua Vyas,Jaipur,Silver,P1001,Gold Ring #1,Rings,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,180330.0,10.0,162297.0,Debit Card,In-Store
+TXN5054,2025-06-04 00:00:00,2025-06,2025,C2003,Neel Zacharia,Surat,Platinum,P1031,Rose Gold Bracelet #31,Bracelets,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,151880.0,15.0,129098.0,Net Banking,In-Store
+TXN5636,2024-10-02 00:00:00,2024-10,2024,C2019,Ayush Khatri,Pune,Platinum,P1037,Platinum Bracelet #37,Bracelets,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,196470.0,0.0,196470.0,Cash,Online
+TXN5941,2024-12-04 00:00:00,2024-12,2024,C2093,Elijah Mannan,Bengaluru,,P1046,Rose Gold Ring #46,Rings,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,200320.0,5.0,380608.0,Credit Card,Online
+TXN5238,2024-06-24 00:00:00,2024-06,2024,C2088,Sai Kadakia,Surat,,P1006,Diamond Earring #6,Earrings,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,210050.0,0.0,210050.0,Cash,In-Store
+TXN5069,2024-07-14 00:00:00,2024-07,2024,C2123,Oeshi Sachdev,Hyderabad,Silver,P1045,Platinum Bangle #45,Bangles,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,2,175020.0,15.0,297534.0,Cash,Online
+TXN5534,2025-04-15 00:00:00,2025-04,2025,C2079,Udarsh Krishnan,Pune,Platinum,P1022,Diamond Pendant #22,Pendants,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,63980.0,15.0,54383.0,EMI,Online
+TXN5320,2023-03-08 00:00:00,2023-03,2023,C2020,Tamanna Nagy,Chennai,,P1042,Gold Earring #42,Earrings,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,110500.0,10.0,198900.0,Cash,In-Store
+TXN5420,2023-12-14 00:00:00,2023-12,2023,C2063,Faras Deo,Bengaluru,Silver,P1012,Gold Necklace #12,Necklaces,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,47320.0,0.0,47320.0,Credit Card,In-Store
+TXN5863,2024-06-29 00:00:00,2024-06,2024,C2105,Anika Saxena,Chennai,Gold,P1011,Gold Bracelet #11,Bracelets,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,2,173730.0,0.0,347460.0,EMI,In-Store
+TXN5191,2023-06-05 00:00:00,2023-06,2023,C2028,Charles Dugal,Surat,Platinum,P1009,Silver Ring #9,Rings,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,191560.0,15.0,162826.0,Net Banking,Online
+TXN5286,2023-01-24 00:00:00,2023-01,2023,C2139,Oni Issac,Mumbai,Silver,P1055,Silver Bracelet #55,Bracelets,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,244060.0,0.0,244060.0,UPI,Online
+TXN5146,2025-05-19 00:00:00,2025-05,2025,C2021,Guneet Chaudhry,Pune,,P1011,Gold Bracelet #11,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,81120.0,15.0,137904.0,Net Banking,In-Store
+TXN5301,2023-05-30 00:00:00,2023-05,2023,C2072,Kalpit Oak,Surat,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,3,43500.0,10.0,117450.0,Net Banking,Online
+TXN5153,2024-09-03 00:00:00,2024-09,2024,C2002,Alka Dewan,Delhi,Gold,P1036,Diamond Necklace #36,Necklaces,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,2,105290.0,0.0,210580.0,Debit Card,In-Store
+TXN5904,2023-01-25 00:00:00,2023-01,2023,C2004,Veer Bir,Jaipur,Silver,P1014,Diamond Nose Pin #14,Nose Pins,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,3,54760.0,0.0,164280.0,EMI,In-Store
+TXN5887,2024-08-14 00:00:00,2024-08,2024,C2050,George Wason,Jaipur,,P1058,Silver Bangle #58,Bangles,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,3,196270.0,10.0,529929.0,EMI,Online
+TXN5538,2023-10-21 00:00:00,2023-10,2023,C2027,Yashica Kala,Delhi,Silver,P1018,Platinum Ring #18,Rings,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,233490.0,0.0,700470.0,Credit Card,Online
+TXN5257,2023-04-05 00:00:00,2023-04,2023,C2037,Leela Bali,Delhi,Silver,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,175290.0,0.0,175290.0,Debit Card,Online
+TXN5567,2023-07-15 00:00:00,2023-07,2023,C2149,Ronith Chokshi,Chennai,,P1021,Silver Bracelet #21,Bracelets,Silver,S101,Aurelia Jewels - Surat,Surat,3,204190.0,15.0,520684.5,Net Banking,In-Store
+TXN5095,2025-03-13 00:00:00,2025-03,2025,C2082,Chakradev Misra,Kolkata,Gold,P1034,Platinum Pendant #34,Pendants,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,132070.0,5.0,125466.5,Cash,In-Store
+TXN5093,2023-07-01 00:00:00,2023-07,2023,C2020,Tamanna Nagy,Chennai,,P1012,Gold Necklace #12,Necklaces,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,1,96790.0,15.0,82271.5,Debit Card,In-Store
+TXN5885,2024-09-18 00:00:00,2024-09,2024,UNKNOWN,,,,P1009,Silver Ring #9,Rings,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,3,182290.0,5.0,519526.5,UPI,In-Store
+TXN5779,2024-05-18 00:00:00,2024-05,2024,C2149,Ronith Chokshi,Chennai,,P1022,Diamond Pendant #22,Pendants,Diamond,S102,Aurelia Jewels - Chennai,Chennai,1,143070.0,0.0,143070.0,Net Banking,Online
+TXN5050,2025-02-16 00:00:00,2025-02,2025,C2096,Siddharth Doctor,Lucknow,,P1053,Diamond Earring #53,Earrings,Diamond,S101,Aurelia Jewels - Surat,Surat,1,20140.0,0.0,20140.0,Debit Card,Online
+TXN5374,2024-11-07 00:00:00,2024-11,2024,C2039,Farhan Krishna,Delhi,Silver,P1058,Silver Bangle #58,Bangles,Silver,S101,Aurelia Jewels - Surat,Surat,2,107150.0,15.0,182155.0,EMI,In-Store
+TXN5896,2024-04-01 00:00:00,2024-04,2024,C2087,Tanvi Halder,Ahmedabad,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,188710.0,0.0,566130.0,Net Banking,In-Store
+TXN5867,2024-09-28 00:00:00,2024-09,2024,C2107,Fariq Sami,Mumbai,Silver,P1011,Gold Bracelet #11,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,2,51240.0,0.0,102480.0,Cash,Online
+TXN5830,2025-05-17 00:00:00,2025-05,2025,C2047,Mason Gala,Pune,,P1007,Silver Anklet #7,Anklets,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,3,47640.0,15.0,121482.0,Cash,Online
+TXN5544,2024-12-19 00:00:00,2024-12,2024,C2150,Qasim Sarraf,Pune,Platinum,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,11430.0,0.0,11430.0,Debit Card,Online
+TXN5614,2024-11-11 00:00:00,2024-11,2024,C2078,Oscar Hans,Jaipur,Silver,P1032,Gold Anklet #32,Anklets,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,200750.0,0.0,200750.0,Debit Card,Online
+TXN5907,2023-10-14 00:00:00,2023-10,2023,C2006,Finn Saini,Mumbai,Gold,P1020,Silver Ring #20,Rings,Silver,S101,Aurelia Jewels - Surat,Surat,1,78300.0,10.0,70470.0,Credit Card,In-Store
+TXN5600,2023-12-03 00:00:00,2023-12,2023,C2110,Mohammed Sengupta,Pune,,P1011,Gold Bracelet #11,Bracelets,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,40230.0,0.0,40230.0,Debit Card,In-Store
+TXN5875,2024-11-23 00:00:00,2024-11,2024,C2016,Ishaan Bhattacharyya,Hyderabad,,P1029,Silver Bangle #29,Bangles,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,23570.0,15.0,20034.5,Debit Card,Online
+TXN5225,2023-04-10 00:00:00,2023-04,2023,C2046,Advika Rajagopal,Ahmedabad,Silver,P1020,Silver Ring #20,Rings,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,151170.0,0.0,151170.0,UPI,Online
+TXN5928,2024-09-11 00:00:00,2024-09,2024,C2007,Samar Lalla,Surat,Silver,P1029,Silver Bangle #29,Bangles,Silver,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,199410.0,10.0,538407.0,EMI,In-Store
+TXN5162,2023-03-03 00:00:00,2023-03,2023,C2040,Maanas Munshi,Mumbai,Gold,P1045,Platinum Bangle #45,Bangles,Platinum,S102,Aurelia Jewels - Chennai,Chennai,1,124010.0,10.0,111609.0,Cash,Online
+TXN5491,2024-02-08 00:00:00,2024-02,2024,C2139,Oni Issac,Mumbai,Silver,P1051,Platinum Nose Pin #51,Nose Pins,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,131650.0,0.0,131650.0,Debit Card,Online
+TXN5267,2025-06-26 00:00:00,2025-06,2025,UNKNOWN,,,,P1011,Gold Bracelet #11,Bracelets,Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,25270.0,0.0,50540.0,Debit Card,In-Store
+TXN5276,2024-11-25 00:00:00,2024-11,2024,C2075,Vrinda Lanka,Hyderabad,Silver,P1029,Silver Bangle #29,Bangles,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,1,50330.0,0.0,50330.0,Credit Card,Online
+TXN5235,2024-07-03 00:00:00,2024-07,2024,C2076,Oliver Kakar,Lucknow,Gold,P1019,Diamond Bangle #19,Bangles,Diamond,S103,Aurelia Jewels - Jaipur,Jaipur,1,174980.0,15.0,148733.0,EMI,Online
+TXN5262,2024-08-01 00:00:00,2024-08,2024,C2054,Rachana Grewal,Lucknow,Silver,P1028,Gold Nose Pin #28,Nose Pins,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,3,155740.0,0.0,467220.0,Credit Card,Online
+TXN5092,2023-02-18 00:00:00,2023-02,2023,C2100,Balendra Parsa,Hyderabad,Silver,P1027,Diamond Anklet #27,Anklets,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,7190.0,0.0,7190.0,Debit Card,Online
+TXN5435,2024-07-20 00:00:00,2024-07,2024,C2009,Chaitanya Sarin,Ahmedabad,Silver,P1053,Diamond Earring #53,Earrings,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,49930.0,0.0,49930.0,UPI,Online
+TXN5457,2023-11-15 00:00:00,2023-11,2023,C2051,Madhav Babu,Pune,Platinum,P1016,Diamond Necklace #16,Necklaces,Diamond,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,153040.0,0.0,153040.0,EMI,In-Store
+TXN5447,2023-01-29 00:00:00,2023-01,2023,C2087,Tanvi Halder,Ahmedabad,Gold,P1053,Diamond Earring #53,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,58260.0,5.0,55347.0,EMI,Online
+TXN5503,2023-11-17 00:00:00,2023-11,2023,C2021,Guneet Chaudhry,Pune,,P1005,Rose Gold Bracelet #5,Bracelets,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,44620.0,15.0,37927.0,Net Banking,Online
+TXN5021,2023-09-08 00:00:00,2023-09,2023,C2038,Jairaj Iyer,Hyderabad,Gold,P1006,Diamond Earring #6,Earrings,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,3,101480.0,15.0,258774.0,UPI,Online
+TXN5391,2023-07-06 00:00:00,2023-07,2023,C2105,Anika Saxena,Chennai,Gold,P1044,Platinum Nose Pin #44,Nose Pins,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,155160.0,0.0,155160.0,EMI,In-Store
+TXN5369,2024-03-24 00:00:00,2024-03,2024,C2029,Mekhala Basak,Jaipur,Platinum,P1007,Silver Anklet #7,Anklets,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,128800.0,0.0,128800.0,Debit Card,Online
+TXN5354,2024-11-23 00:00:00,2024-11,2024,C2040,Maanas Munshi,Mumbai,Gold,P1060,Diamond Pendant #60,Pendants,Diamond,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,75510.0,0.0,75510.0,UPI,Online
+TXN5023,2024-02-15 00:00:00,2024-02,2024,C2022,Rushil Rajagopalan,Hyderabad,Platinum,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,9360.0,0.0,9360.0,Debit Card,In-Store
+TXN5820,2024-02-11 00:00:00,2024-02,2024,C2099,Lakshit Dani,Chennai,,P1007,Silver Anklet #7,Anklets,Silver,S105,Aurelia Jewels - Mumbai,Mumbai,1,83660.0,0.0,83660.0,Debit Card,In-Store
+TXN5731,2023-09-22 00:00:00,2023-09,2023,C2030,Rudra Ghose,Mumbai,Silver,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S108,Aurelia Jewels - Bengaluru,Bengaluru,3,196130.0,10.0,529551.0,Credit Card,In-Store
+TXN5464,2023-04-05 00:00:00,2023-04,2023,C2099,Lakshit Dani,Chennai,,P1026,Silver Necklace #26,Necklaces,Silver,S102,Aurelia Jewels - Chennai,Chennai,2,219500.0,0.0,439000.0,UPI,In-Store
+TXN5067,2025-07-29 00:00:00,2025-07,2025,C2005,Girik Khalsa,Hyderabad,Silver,P1015,Platinum Bracelet #15,Bracelets,Platinum,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,55950.0,5.0,53152.5,Credit Card,Online
+TXN5715,2024-01-24 00:00:00,2024-01,2024,C2074,Girik Nigam,Jaipur,,P1012,Gold Necklace #12,Necklaces,Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,143000.0,10.0,128700.0,UPI,Online
+TXN5661,2023-08-18 00:00:00,2023-08,2023,C2130,Leena Pant,Chennai,Silver,P1037,Platinum Bracelet #37,Bracelets,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,212510.0,0.0,212510.0,Net Banking,In-Store
+TXN5250,2024-02-15 00:00:00,2024-02,2024,C2024,Oni Dubey,Chennai,Gold,P1024,Gold Bracelet #24,Bracelets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,210930.0,15.0,179290.5,EMI,Online
+TXN5703,2024-04-28 00:00:00,2024-04,2024,C2078,Oscar Hans,Jaipur,Silver,P1033,Gold Pendant #33,Pendants,Gold,S102,Aurelia Jewels - Chennai,Chennai,2,141800.0,0.0,283600.0,EMI,In-Store
+TXN5025,2024-04-01 00:00:00,2024-04,2024,C2009,Chaitanya Sarin,Ahmedabad,Silver,P1040,Silver Nose Pin #40,Nose Pins,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,126730.0,0.0,253460.0,Credit Card,In-Store
+TXN5481,2024-05-26 00:00:00,2024-05,2024,C2118,Max Guha,Kolkata,Silver,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,187780.0,0.0,187780.0,Net Banking,In-Store
+TXN5615,2023-01-06 00:00:00,2023-01,2023,C2091,Oliver Yogi,Mumbai,Silver,P1043,Rose Gold Ring #43,Rings,Rose Gold,S101,Aurelia Jewels - Surat,Surat,1,65850.0,15.0,55972.5,Net Banking,Online
+TXN5389,2023-09-09 00:00:00,2023-09,2023,C2150,Qasim Sarraf,Pune,Platinum,P1029,Silver Bangle #29,Bangles,Silver,S102,Aurelia Jewels - Chennai,Chennai,3,102840.0,0.0,308520.0,UPI,Online
+TXN5237,2023-09-21 00:00:00,2023-09,2023,C2029,Mekhala Basak,Jaipur,Platinum,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,166150.0,5.0,157842.5,UPI,Online
+TXN5298,2024-12-27 00:00:00,2024-12,2024,C2008,Gaurangi Sabharwal,Surat,Silver,P1048,Rose Gold Nose Pin #48,Nose Pins,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,35660.0,10.0,64188.0,UPI,Online
+TXN5255,2024-04-12 00:00:00,2024-04,2024,C2044,Bina Basak,Lucknow,Gold,P1054,Silver Bangle #54,Bangles,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,32090.0,10.0,28881.0,Credit Card,In-Store
+TXN5281,2024-12-10 00:00:00,2024-12,2024,C2040,Maanas Munshi,Mumbai,Gold,P1011,Gold Bracelet #11,Bracelets,Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,14120.0,5.0,13414.0,Cash,In-Store
+TXN5415,2023-10-26 00:00:00,2023-10,2023,C2003,Neel Zacharia,Surat,Platinum,P1034,Platinum Pendant #34,Pendants,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,62400.0,0.0,62400.0,Cash,Online
+TXN5322,2024-06-18 00:00:00,2024-06,2024,C2094,Avni Dey,Kolkata,,P1030,Rose Gold Nose Pin #30,Nose Pins,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,41020.0,15.0,69734.0,Cash,In-Store
+TXN5224,2023-12-15 00:00:00,2023-12,2023,UNKNOWN,,,,P1028,Gold Nose Pin #28,Nose Pins,Gold,S107,Aurelia Jewels - Hyderabad,Hyderabad,3,137950.0,0.0,413850.0,EMI,Online
+TXN5213,2024-06-21 00:00:00,2024-06,2024,C2045,Patrick Bansal,Bengaluru,Silver,P1008,Platinum Earring #8,Earrings,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,1,195340.0,0.0,195340.0,Net Banking,In-Store
+TXN5414,2024-08-21 00:00:00,2024-08,2024,C2133,Triya Khurana,Mumbai,,P1021,Silver Bracelet #21,Bracelets,Silver,S106,Aurelia Jewels - Lucknow,Lucknow,2,147580.0,5.0,280402.0,Debit Card,In-Store
+TXN5807,2023-05-26 00:00:00,2023-05,2023,C2071,Ayushman Mand,Mumbai,Silver,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S106,Aurelia Jewels - Lucknow,Lucknow,1,160640.0,0.0,160640.0,EMI,Online
+TXN5173,2023-01-01 00:00:00,2023-01,2023,C2009,Chaitanya Sarin,Ahmedabad,Silver,P1019,Diamond Bangle #19,Bangles,Diamond,S101,Aurelia Jewels - Surat,Surat,1,248380.0,15.0,211123.0,Debit Card,In-Store
+TXN5700,2024-10-01 00:00:00,2024-10,2024,C2066,Anita Viswanathan,Mumbai,,P1036,Diamond Necklace #36,Necklaces,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,149790.0,10.0,134811.0,UPI,In-Store
+TXN5716,2024-03-26 00:00:00,2024-03,2024,C2024,Oni Dubey,Chennai,Gold,P1032,Gold Anklet #32,Anklets,Gold,S106,Aurelia Jewels - Lucknow,Lucknow,3,89820.0,0.0,269460.0,EMI,Online
+TXN5858,2025-05-02 00:00:00,2025-05,2025,C2106,Krishna Zacharia,Bengaluru,Platinum,P1004,Silver Necklace #4,Necklaces,Silver,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,87070.0,0.0,174140.0,Net Banking,Online
+TXN5616,2025-01-20 00:00:00,2025-01,2025,C2112,Nakul Walla,Surat,Silver,P1038,Rose Gold Bangle #38,Bracelets,Rose Gold,S102,Aurelia Jewels - Chennai,Chennai,2,57840.0,10.0,104112.0,Debit Card,In-Store
+TXN5148,2023-08-04 00:00:00,2023-08,2023,C2102,Jagdish Brar,Lucknow,Gold,P1007,Silver Anklet #7,Anklets,Silver,S102,Aurelia Jewels - Chennai,Chennai,1,234450.0,0.0,234450.0,Credit Card,Online
+TXN5382,2024-03-26 00:00:00,2024-03,2024,C2127,Ganga Nair,Chennai,Gold,P1047,Silver Pendant #47,Pendants,Silver,S107,Aurelia Jewels - Hyderabad,Hyderabad,1,39510.0,0.0,39510.0,Debit Card,Online
+TXN5211,2025-06-28 00:00:00,2025-06,2025,C2017,Vincent Mani,Pune,Gold,P1010,Rose Gold Bracelet #10,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,1,87430.0,5.0,83058.5,Net Banking,Online
+TXN5622,2024-08-12 00:00:00,2024-08,2024,C2016,Ishaan Bhattacharyya,Hyderabad,,P1008,Platinum Earring #8,Earrings,Platinum,S101,Aurelia Jewels - Surat,Surat,2,131000.0,0.0,262000.0,Debit Card,Online
+TXN5859,2023-07-31 00:00:00,2023-07,2023,C2147,Rajata Kuruvilla,Jaipur,,P1043,Rose Gold Ring #43,Rings,Rose Gold,S103,Aurelia Jewels - Jaipur,Jaipur,2,245970.0,5.0,467343.0,EMI,Online
+TXN5398,2025-04-30 00:00:00,2025-04,2025,C2144,Kala Gour,Kolkata,Silver,P1018,Platinum Ring #18,Rings,Platinum,S107,Aurelia Jewels - Hyderabad,Hyderabad,2,154170.0,10.0,277506.0,EMI,In-Store
+TXN5520,2025-01-29 00:00:00,2025-01,2025,UNKNOWN,,,,P1034,Platinum Pendant #34,Pendants,Platinum,S106,Aurelia Jewels - Lucknow,Lucknow,2,163960.0,0.0,327920.0,Credit Card,Online
+TXN5512,2023-09-30 00:00:00,2023-09,2023,C2109,Brijesh Soman,Delhi,Silver,P1032,Gold Anklet #32,Anklets,Gold,S108,Aurelia Jewels - Bengaluru,Bengaluru,1,83920.0,0.0,83920.0,Net Banking,Online
+TXN5330,2024-01-29 00:00:00,2024-01,2024,C2093,Elijah Mannan,Bengaluru,,P1058,Silver Bangle #58,Bangles,Silver,S102,Aurelia Jewels - Chennai,Chennai,2,214980.0,0.0,429960.0,UPI,Online
+TXN5351,2025-06-05 00:00:00,2025-06,2025,C2023,Chakrika Nigam,Ahmedabad,,P1002,Rose Gold Anklet #2,Anklets,Rose Gold,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,1,99570.0,5.0,94591.5,Credit Card,In-Store
+TXN5537,2025-07-30 00:00:00,2025-07,2025,C2012,Lopa Nayar,Pune,Silver,P1039,Platinum Nose Pin #39,Nose Pins,Platinum,S103,Aurelia Jewels - Jaipur,Jaipur,1,109440.0,5.0,103968.0,EMI,Online
+TXN5897,2024-07-15 00:00:00,2024-07,2024,C2054,Rachana Grewal,Lucknow,Silver,P1029,Silver Bangle #29,Bangles,Silver,S103,Aurelia Jewels - Jaipur,Jaipur,1,191640.0,10.0,172476.0,Debit Card,Online
+TXN5809,2023-06-22 00:00:00,2023-06,2023,C2126,Lohit Mander,Ahmedabad,Gold,P1049,Rose Gold Bracelet #49,Bracelets,Rose Gold,S105,Aurelia Jewels - Mumbai,Mumbai,2,132620.0,10.0,238716.0,Debit Card,In-Store
+TXN5448,2025-04-15 00:00:00,2025-04,2025,C2083,Osha Chaudhuri,Lucknow,Silver,P1036,Diamond Necklace #36,Necklaces,Diamond,S104,Aurelia Jewels - Ahmedabad,Ahmedabad,2,233840.0,0.0,467680.0,Credit Card,Online
+TXN5690,2024-05-23 00:00:00,2024-05,2024,C2101,Yagnesh Nori,Chennai,,P1006,Diamond Earring #6,Earrings,Diamond,S106,Aurelia Jewels - Lucknow,Lucknow,1,115260.0,0.0,115260.0,Cash,In-Store

@@ -1,0 +1,150 @@
+CustomerID,CustomerName,Gender,Age,City,State,Email,Phone,MembershipTier,JoinDate
+C2001,Kritika Brar,Female,44,Chennai,Tamil Nadu,bakshianvi@example.org,1960013389,Silver,2023-03-17 00:00:00
+C2002,Alka Dewan,Female,43,Delhi,Delhi,janaki93@example.net,2832764835,Gold,2024-01-11 00:00:00
+C2003,Neel Zacharia,Male,43,Surat,Gujarat,adyasangha@example.net,8480184514,Platinum,2021-02-19 00:00:00
+C2004,Veer Bir,Male,43,Jaipur,Rajasthan,naikvrinda@example.org,8963834657,Silver,2018-09-06 00:00:00
+C2005,Girik Khalsa,Male,43,Hyderabad,Telangana,narayananekavir@example.net,6701065133,Silver,2019-05-31 00:00:00
+C2006,Finn Saini,Male,43,Mumbai,Maharashtra,niharikasunder@example.com,6064746872,Gold,2019-08-16 00:00:00
+C2007,Samar Lalla,Female,43,Surat,Gujarat,advika35@example.org,7510799118,Silver,2018-03-06 00:00:00
+C2008,Gaurangi Sabharwal,Female,57,Surat,Gujarat,dkrishnamurthy@example.org,5869232260,Silver,2023-01-26 00:00:00
+C2009,Chaitanya Sarin,Male,43,Ahmedabad,Gujarat,not_provided@unknown.com,3375433036,Silver,2022-10-13 00:00:00
+C2010,Girik Keer,Male,43,Bengaluru,Karnataka,venkateshronith@example.com,7773872148,Gold,2025-01-01 00:00:00
+C2011,William Maharaj,Female,43,Lucknow,Uttar Pradesh,umang32@example.org,Not Provided,,2024-03-08 00:00:00
+C2012,Lopa Nayar,Female,43,Pune,Maharashtra,tbrahmbhatt@example.com,Not Provided,Silver,2021-07-04 00:00:00
+C2013,Udyati Kunda,Male,43,Pune,Maharashtra,dgandhi@example.org,Not Provided,Gold,2022-03-07 00:00:00
+C2014,Rajata Loyal,Female,43,Kolkata,West Bengal,oliver99@example.net,9058651850,Gold,2021-12-11 00:00:00
+C2015,Pavani Narayanan,Female,45,Hyderabad,Telangana,yatan14@example.com,1436349578,Silver,2021-02-15 00:00:00
+C2016,Ishaan Bhattacharyya,Female,43,Hyderabad,Telangana,not_provided@unknown.com,1823374989,,2018-01-26 00:00:00
+C2017,Vincent Mani,Male,43,Pune,Maharashtra,eswamy@example.net,4131869993,Gold,2021-10-28 00:00:00
+C2018,Zilmil Sathe,Male,43,Surat,Gujarat,sudiksha13@example.com,Not Provided,Gold,2018-01-12 00:00:00
+C2019,Ayush Khatri,Male,43,Pune,Maharashtra,not_provided@unknown.com,Not Provided,Platinum,2021-03-06 00:00:00
+C2020,Tamanna Nagy,Male,43,Chennai,Tamil Nadu,deepaatwal@example.net,Not Provided,,2020-05-15 00:00:00
+C2021,Guneet Chaudhry,Male,43,Pune,Maharashtra,not_provided@unknown.com,6627028951,,2023-08-12 00:00:00
+C2022,Rushil Rajagopalan,Female,43,Hyderabad,Telangana,sganesan@example.com,4556238692,Platinum,2024-06-06 00:00:00
+C2023,Chakrika Nigam,Male,43,Ahmedabad,Gujarat,pchhabra@example.com,0640909743,,2018-12-27 00:00:00
+C2024,Oni Dubey,Female,43,Chennai,Tamil Nadu,sidhufaqid@example.org,0471138267,Gold,2019-11-20 00:00:00
+C2025,Owen Choudhary,Male,27,Delhi,Delhi,fchaudhary@example.net,Not Provided,Silver,2020-11-14 00:00:00
+C2026,Lakshmi Wali,Female,43,Coimbatore,Tamil Nadu,deepalexander@example.com,7711592124,Gold,2021-07-18 00:00:00
+C2027,Yashica Kala,Female,43,Delhi,Delhi,not_provided@unknown.com,6736576615,Silver,2023-03-07 00:00:00
+C2028,Charles Dugal,Female,43,Surat,Gujarat,vasatikakapur@example.org,4936899809,Platinum,2023-01-17 00:00:00
+C2029,Mekhala Basak,Female,43,Jaipur,Rajasthan,chandranbumb@example.com,7622683885,Platinum,2018-06-10 00:00:00
+C2030,Rudra Ghose,Female,43,Mumbai,Maharashtra,dbahl@example.org,3696816453,Silver,2018-09-27 00:00:00
+C2031,Yachana Dora,Male,43,Kolkata,West Bengal,faqidgoel@example.net,8679807935,Platinum,2019-06-13 00:00:00
+C2032,Joshua Vyas,Male,43,Jaipur,Rajasthan,seshadriharshil@example.com,Not Provided,Silver,2018-03-16 00:00:00
+C2033,Triya Manda,Male,65,Delhi,Delhi,sampathyashoda@example.com,9622292706,,2019-02-19 00:00:00
+C2034,Liam Singh,Male,43,Bengaluru,Karnataka,hthakkar@example.com,5305152204,Gold,2022-11-28 00:00:00
+C2035,Madhavi Singhal,Female,43,Jaipur,Rajasthan,fahluwalia@example.org,Not Provided,,2021-06-21 00:00:00
+C2036,Ria Raju,Female,43,Jaipur,Rajasthan,not_provided@unknown.com,Not Provided,,2019-10-26 00:00:00
+C2037,Leela Bali,Male,43,Delhi,Delhi,rachit77@example.com,6928451154,Silver,2018-12-10 00:00:00
+C2038,Jairaj Iyer,Male,43,Hyderabad,Telangana,shivaniprabhakar@example.com,8565431027,Gold,2022-08-27 00:00:00
+C2039,Farhan Krishna,Male,43,Delhi,Delhi,warjastak@example.org,Not Provided,Silver,2019-08-22 00:00:00
+C2040,Maanas Munshi,Male,43,Mumbai,Maharashtra,anvidass@example.net,4710276773,Gold,2020-06-02 00:00:00
+C2041,Bhavika Yadav,Male,49,Chennai,Tamil Nadu,hemani62@example.com,9532787747,Silver,2024-12-26 00:00:00
+C2042,Manthan Varma,Female,29,Mumbai,Maharashtra,chokshiraagini@example.org,8680002578,Gold,2021-12-16 00:00:00
+C2043,Max Sachar,Male,43,Ahmedabad,Gujarat,falaknagar@example.org,6230913075,Silver,2022-04-05 00:00:00
+C2044,Bina Basak,Male,43,Lucknow,Uttar Pradesh,nirjathaker@example.net,Not Provided,Gold,2019-07-01 00:00:00
+C2045,Patrick Bansal,Female,43,Bengaluru,Karnataka,farhan57@example.net,4540193802,Silver,2023-02-18 00:00:00
+C2046,Advika Rajagopal,Female,40,Ahmedabad,Gujarat,ltandon@example.net,8516122753,Silver,2018-05-30 00:00:00
+C2047,Mason Gala,Female,43,Pune,Maharashtra,sanyaloke@example.com,9187851910,,2022-03-05 00:00:00
+C2048,Kiaan Pall,Female,43,Pune,Maharashtra,zinal71@example.net,4622656766,Silver,2024-02-13 00:00:00
+C2049,Eiravati Nagi,Female,43,Lucknow,Uttar Pradesh,gokhalemaya@example.net,4786863375,Silver,2021-12-10 00:00:00
+C2050,George Wason,Female,43,Jaipur,Rajasthan,not_provided@unknown.com,0892687056,,2018-05-08 00:00:00
+C2051,Madhav Babu,Female,43,Pune,Maharashtra,charanloyal@example.com,8373540331,Platinum,2024-10-14 00:00:00
+C2052,Nisha Arora,Female,43,Hyderabad,Telangana,omisha42@example.org,3785477725,Silver,2020-10-19 00:00:00
+C2053,Victor Kakar,Female,43,Chennai,Tamil Nadu,wagleanvi@example.net,Not Provided,Silver,2023-07-05 00:00:00
+C2054,Rachana Grewal,Female,43,Lucknow,Uttar Pradesh,cmadan@example.org,5621850163,Silver,2024-03-02 00:00:00
+C2055,Xavier Verma,Male,43,Chennai,Tamil Nadu,xchada@example.net,1212678886,Silver,2020-08-27 00:00:00
+C2056,Eiravati Manne,Male,44,Kolkata,West Bengal,lajitagara@example.org,6924593752,Gold,2023-05-15 00:00:00
+C2057,Ojas Basu,Female,43,Coimbatore,Tamil Nadu,ukibe@example.com,9398280737,Gold,2019-06-10 00:00:00
+C2058,Ishwar Bajaj,Male,43,Bengaluru,Karnataka,ynarula@example.com,8757177514,Silver,2021-08-14 00:00:00
+C2059,Ijaya Pandey,Female,43,Coimbatore,Tamil Nadu,ikbal23@example.net,6033419182,Silver,2024-11-21 00:00:00
+C2060,Nilima Swamy,Female,43,Mumbai,Maharashtra,rgera@example.net,Not Provided,,2018-11-29 00:00:00
+C2061,Liam Jhaveri,Male,43,Coimbatore,Tamil Nadu,fsawhney@example.org,4043842797,Silver,2021-05-22 00:00:00
+C2062,Dev Warrior,Male,43,Pune,Maharashtra,danielpanchal@example.net,8457759017,Silver,2023-03-18 00:00:00
+C2063,Faras Deo,Female,43,Bengaluru,Karnataka,bkamdar@example.org,Not Provided,Silver,2023-10-11 00:00:00
+C2064,Yug Malhotra,Male,43,Kolkata,West Bengal,zilmilsaxena@example.org,3112196565,Silver,2024-11-25 00:00:00
+C2065,Pallavi Ratti,Male,43,Jaipur,Rajasthan,kotharibhavani@example.net,8055269658,Gold,2023-05-08 00:00:00
+C2066,Anita Viswanathan,Female,43,Mumbai,Maharashtra,yadavmichael@example.com,3285691463,,2023-07-21 00:00:00
+C2067,Nandini Biswas,Female,43,Kolkata,West Bengal,lallfaraj@example.com,4195180238,Silver,2022-10-07 00:00:00
+C2068,Kashish Shanker,Female,43,Kolkata,West Bengal,xmandal@example.com,8367024103,Gold,2019-06-12 00:00:00
+C2069,Tanveer Narang,Male,43,Jaipur,Rajasthan,chandranyashasvi@example.org,Not Provided,Silver,2023-08-11 00:00:00
+C2070,Megha Taneja,Male,43,Surat,Gujarat,gavinkothari@example.com,Not Provided,,2019-10-28 00:00:00
+C2071,Ayushman Mand,Female,43,Mumbai,Maharashtra,rajapooja@example.org,4720999347,Silver,2021-09-18 00:00:00
+C2072,Kalpit Oak,Female,43,Surat,Gujarat,sodhiishita@example.net,9059929378,Gold,2018-07-30 00:00:00
+C2073,Watika Dhaliwal,Male,43,Mumbai,Maharashtra,ekiyabhargava@example.org,Not Provided,Silver,2021-07-08 00:00:00
+C2074,Girik Nigam,Male,43,Jaipur,Rajasthan,faras35@example.com,6765861793,,2024-04-16 00:00:00
+C2075,Vrinda Lanka,Female,43,Hyderabad,Telangana,bbalasubramanian@example.net,6987205061,Silver,2024-11-03 00:00:00
+C2076,Oliver Kakar,Female,43,Lucknow,Uttar Pradesh,ramqasim@example.com,Not Provided,Gold,2023-06-26 00:00:00
+C2077,Orinder Majumdar,Female,43,Bengaluru,Karnataka,jonathanbasak@example.com,4856467997,,2018-06-22 00:00:00
+C2078,Oscar Hans,Male,43,Jaipur,Rajasthan,ndhawan@example.net,4754691373,Silver,2024-04-21 00:00:00
+C2079,Udarsh Krishnan,Male,26,Pune,Maharashtra,dalbirkrish@example.org,8552414060,Platinum,2023-04-19 00:00:00
+C2080,Hemal Kapadia,Female,21,Coimbatore,Tamil Nadu,anvi66@example.com,1545444328,Silver,2021-03-22 00:00:00
+C2081,Tanvi Dhar,Male,43,Pune,Maharashtra,gparmer@example.com,1724825135,,2018-05-29 00:00:00
+C2082,Chakradev Misra,Male,43,Kolkata,West Bengal,pranit17@example.com,7432927129,Gold,2024-02-04 00:00:00
+C2083,Osha Chaudhuri,Female,43,Lucknow,Uttar Pradesh,tamanna89@example.net,Not Provided,Silver,2018-02-27 00:00:00
+C2084,Bina Parsa,Female,33,Pune,Maharashtra,laksh61@example.net,3753001197,Gold,2020-01-27 00:00:00
+C2085,Chakradhar Bhatnagar,Female,33,Kolkata,West Bengal,pooja11@example.org,Not Provided,Gold,2020-12-07 00:00:00
+C2086,Widisha Badami,Female,43,Lucknow,Uttar Pradesh,dipta08@example.net,7721753540,,2019-04-26 00:00:00
+C2087,Tanvi Halder,Female,43,Ahmedabad,Gujarat,ravalnitara@example.org,4883755037,Gold,2022-08-31 00:00:00
+C2088,Sai Kadakia,Female,43,Surat,Gujarat,hritik60@example.net,Not Provided,,2018-09-10 00:00:00
+C2089,Omaja Munshi,Male,43,Ahmedabad,Gujarat,hemani22@example.net,Not Provided,,2023-09-22 00:00:00
+C2090,Qarin Verma,Female,43,Lucknow,Uttar Pradesh,aryazayan@example.org,8933472122,,2022-10-06 00:00:00
+C2091,Oliver Yogi,Male,43,Mumbai,Maharashtra,tiwarinathaniel@example.com,Not Provided,Silver,2023-04-18 00:00:00
+C2092,Gabriel Manda,Female,43,Pune,Maharashtra,bhattishivansh@example.net,0919015814,,2018-11-25 00:00:00
+C2093,Elijah Mannan,Female,43,Bengaluru,Karnataka,zraj@example.net,9968814353,,2018-01-15 00:00:00
+C2094,Avni Dey,Female,44,Kolkata,West Bengal,krishnaguneet@example.org,3149135775,,2019-04-08 00:00:00
+C2095,Theodore Sura,Male,43,Surat,Gujarat,adyabose@example.net,9969308488,Silver,2020-09-29 00:00:00
+C2096,Siddharth Doctor,Female,43,Lucknow,Uttar Pradesh,devlalla@example.com,2665918463,,2024-06-23 00:00:00
+C2097,Qabil Vaidya,Male,43,Kolkata,West Bengal,nakulpathak@example.net,Not Provided,,2018-09-07 00:00:00
+C2098,Krish Kumar,Male,43,Coimbatore,Tamil Nadu,oliver57@example.net,0881172980,Platinum,2023-11-19 00:00:00
+C2099,Lakshit Dani,Female,43,Chennai,Tamil Nadu,fkaul@example.com,9448695946,,2019-08-15 00:00:00
+C2100,Balendra Parsa,Female,43,Hyderabad,Telangana,not_provided@unknown.com,Not Provided,Silver,2023-01-17 00:00:00
+C2101,Yagnesh Nori,Male,43,Chennai,Tamil Nadu,aadidugar@example.org,6938011848,,2023-05-18 00:00:00
+C2102,Jagdish Brar,Male,43,Lucknow,Uttar Pradesh,lsharma@example.org,3343333952,Gold,2020-09-20 00:00:00
+C2103,Warjas Luthra,Female,43,Jaipur,Rajasthan,wahuja@example.net,Not Provided,Gold,2021-06-17 00:00:00
+C2104,Aachal Soni,Female,43,Hyderabad,Telangana,not_provided@unknown.com,Not Provided,Gold,2022-08-23 00:00:00
+C2105,Anika Saxena,Male,43,Chennai,Tamil Nadu,senguptagaurika@example.com,Not Provided,Gold,2024-05-22 00:00:00
+C2106,Krishna Zacharia,Female,43,Bengaluru,Karnataka,shravya62@example.org,1326111780,Platinum,2019-11-25 00:00:00
+C2107,Fariq Sami,Male,43,Mumbai,Maharashtra,not_provided@unknown.com,Not Provided,Silver,2019-07-18 00:00:00
+C2109,Brijesh Soman,Female,43,Delhi,Delhi,manya18@example.com,3650249163,Silver,2023-11-18 00:00:00
+C2110,Mohammed Sengupta,Male,43,Pune,Maharashtra,kamyachakraborty@example.org,5005281273,,2024-05-03 00:00:00
+C2111,Chandran Peri,Male,58,Pune,Maharashtra,adya85@example.com,0959351863,Gold,2022-03-25 00:00:00
+C2112,Nakul Walla,Female,43,Surat,Gujarat,ekavirarya@example.org,5865094801,Silver,2023-12-04 00:00:00
+C2113,Lakshit Lanka,Female,43,Surat,Gujarat,upandey@example.net,Not Provided,Silver,2020-05-01 00:00:00
+C2114,Yamini Chana,Female,43,Surat,Gujarat,zaid34@example.com,0556613906,Platinum,2024-05-10 00:00:00
+C2115,Dalaja Gara,Male,43,Lucknow,Uttar Pradesh,rachanamann@example.com,Not Provided,Gold,2018-08-08 00:00:00
+C2116,Chatresh Shroff,Female,43,Coimbatore,Tamil Nadu,riya92@example.com,Not Provided,Silver,2023-01-20 00:00:00
+C2117,Umang Doshi,Female,43,Lucknow,Uttar Pradesh,bhavsarlipika@example.net,5438404608,Silver,2018-03-12 00:00:00
+C2118,Max Guha,Male,43,Kolkata,West Bengal,maya21@example.net,Not Provided,Silver,2022-01-14 00:00:00
+C2119,Lajita Munshi,Male,42,Jaipur,Rajasthan,deepqasim@example.org,Not Provided,,2024-09-11 00:00:00
+C2120,Praneel Setty,Male,43,Jaipur,Rajasthan,hyadav@example.net,7038860868,Silver,2022-04-09 00:00:00
+C2121,Wazir Kalla,Female,43,Kolkata,West Bengal,suhanichana@example.com,9222206447,Silver,2018-12-11 00:00:00
+C2122,Ekansh Sane,Male,43,Mumbai,Maharashtra,asetty@example.com,9945101622,Gold,2021-09-22 00:00:00
+C2123,Oeshi Sachdev,Male,43,Hyderabad,Telangana,masterurishilla@example.org,9548995299,Silver,2022-06-20 00:00:00
+C2124,Garima Pandya,Female,43,Hyderabad,Telangana,nathinaya@example.net,4144885015,Gold,2024-04-28 00:00:00
+C2125,Guneet Varty,Female,43,Ahmedabad,Gujarat,dixitavni@example.org,5743842150,Platinum,2018-10-11 00:00:00
+C2126,Lohit Mander,Female,43,Ahmedabad,Gujarat,sameshbansal@example.com,0988138585,Gold,2024-07-12 00:00:00
+C2127,Ganga Nair,Male,43,Chennai,Tamil Nadu,onveerbobal@example.com,4773329456,Gold,2019-11-13 00:00:00
+C2128,Vidhi Contractor,Female,43,Mumbai,Maharashtra,bsura@example.org,Not Provided,Gold,2020-11-25 00:00:00
+C2129,Kala Bera,Male,23,Mumbai,Maharashtra,jnanda@example.org,2784699733,Gold,2019-05-03 00:00:00
+C2130,Leena Pant,Female,43,Chennai,Tamil Nadu,parmerimaran@example.com,2679692786,Silver,2021-11-27 00:00:00
+C2131,Garima Sama,Male,43,Hyderabad,Telangana,quincysamra@example.net,Not Provided,Silver,2019-11-05 00:00:00
+C2132,Mitesh Tandon,Male,43,Coimbatore,Tamil Nadu,chaitaly42@example.org,4429444019,Platinum,2020-02-03 00:00:00
+C2133,Triya Khurana,Female,69,Mumbai,Maharashtra,prajagopal@example.net,6742860476,,2020-04-22 00:00:00
+C2134,Neel Borah,Male,43,Delhi,Delhi,zinalnazareth@example.net,0106181753,,2023-06-28 00:00:00
+C2135,Netra Boase,Female,43,Bengaluru,Karnataka,david66@example.com,6425690877,Silver,2024-11-21 00:00:00
+C2136,Amol Bansal,Female,43,Jaipur,Rajasthan,aarushrajagopalan@example.net,8063461571,Silver,2022-09-10 00:00:00
+C2137,Ekanta Kala,Female,40,Bengaluru,Karnataka,daksh50@example.com,2041792911,Gold,2021-07-12 00:00:00
+C2138,Charvi Pall,Female,43,Coimbatore,Tamil Nadu,ghosegautami@example.org,2582739021,,2022-08-30 00:00:00
+C2139,Oni Issac,Male,43,Mumbai,Maharashtra,jagrawal@example.org,Not Provided,Silver,2020-07-09 00:00:00
+C2140,Victor Chadha,Male,66,Delhi,Delhi,victor15@example.org,Not Provided,Gold,2024-03-02 00:00:00
+C2141,Tripti Bajwa,Female,40,Lucknow,Uttar Pradesh,fvig@example.org,6335693929,Gold,2021-05-04 00:00:00
+C2142,Umang Nagi,Male,43,Lucknow,Uttar Pradesh,xsheth@example.org,0850165790,Gold,2024-11-04 00:00:00
+C2143,Bishakha Gulati,Female,43,Kolkata,West Bengal,amara86@example.com,7788178847,Silver,2021-08-18 00:00:00
+C2144,Kala Gour,Female,43,Kolkata,West Bengal,bainsvincent@example.net,Not Provided,Silver,2019-06-28 00:00:00
+C2145,Robert Vyas,Female,67,Pune,Maharashtra,bakhshinadig@example.com,1406937515,,2018-11-06 00:00:00
+C2146,Vaishnavi Vohra,Female,64,Ahmedabad,Gujarat,arunimahayre@example.org,Not Provided,,2024-07-11 00:00:00
+C2147,Rajata Kuruvilla,Female,43,Jaipur,Rajasthan,dominic96@example.org,2730147195,,2020-06-11 00:00:00
+C2148,Vedhika Sabharwal,Male,43,Ahmedabad,Gujarat,not_provided@unknown.com,4818321928,Silver,2018-07-18 00:00:00
+C2149,Ronith Chokshi,Male,35,Chennai,Tamil Nadu,nicholas13@example.org,2321611076,,2021-05-21 00:00:00
+C2150,Qasim Sarraf,Male,63,Pune,Maharashtra,not_provided@unknown.com,Not Provided,Platinum,2020-08-17 00:00:00
